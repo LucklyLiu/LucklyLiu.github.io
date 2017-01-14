@@ -1,797 +1,112 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Litten�Ĳ���</title>
-  <subtitle>��С�����������ദ</subtitle>
+  <title>Luck_Liu</title>
+  <subtitle>������ô��������ȥ����</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="//litten.me/"/>
-  <updated>2017-01-14T06:35:57.462Z</updated>
+  <updated>2017-01-14T06:35:57.503Z</updated>
   <id>//litten.me/</id>
   
   <author>
-    <name>Litten</name>
-    <email>litten225@qq.com</email>
+    <name>Luck_Liu</name>
+    <email>115547124@qq.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>旧事 回以沉默 11.12-11.19</title>
-    <link href="//litten.me/2016/11/20/diary-2016-1112-1119/"/>
-    <id>//litten.me/2016/11/20/diary-2016-1112-1119/</id>
-    <published>2016-11-20T02:36:00.000Z</published>
-    <updated>2017-01-14T06:35:57.462Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/assets/blogImg/diary-16.jpg" alt=""></p>
-<p>17号，回华科。<br>和上一次不一样，这次多了点儿使命感：做一次前端技术演讲。</p>
-<p>学生时代，我听过无数场分享。<br>总觉得台上高谈阔论嘉宾，离我实在太远。<br>一次分享，一别两端，然后各自回到自己的生活轨道，再无交集。<br>或者是我没有入心。</p>
-<p>但想不到，这么快台上的这个人就该是我了。<br>仿佛晚会还在继续，帷幔也没收起。<br>魔术师说，天色还早呀，我再给你们变个魔术吧<br>烟雾腾空，灯光明灭，时间掠影而过<br>我本来是台下端坐的观众，一下子就站到了台上<br>主持人把话筒一递，说，该你了。</p>
-<a id="more"></a>
-<p>16号，扇了自己几个耳光。<br>明天，代表腾讯，回华科，你的主场，该你了，发什么呆，快去准备啊！</p>
-<p>但准备个屁啊。<br>我在其他地方跟同行分享总是从容，一想到回华科就紧张得不行…<br>话是这么说，还是改ppt到了凌晨4点。<br>就像你考试前说，老子不考了还看什么书？最后还是会把书看了当了孙子。</p>
-<hr>
-<p>但结果还不错。<br>发现自己还是很容易能跟学生们混在一起。<br>书记和辅导员也都很nice。<br>他们很多想法都挺好的，而且学院现在也有了钱，可以付之实现。<br>还吃到了洪山菜苔，这一味菜，胜过了所有山珍海味。</p>
-<p>碰到了Java，这次他代表美团回来分享。<br>气色不错，技术比许多同龄人都要强，也有了女朋友，挺好。<br>还有专程赶过来的兔子，太贴心了。<br>一别三年，恍如昨日。</p>
-<p>兜兜转转，还是回到了沁苑科创基地。<br>这个地方，曾满载我的得意与失落，成长与迷失，团聚与孤单。<br>短短的相聚，一种回家的感觉，晚上看着大家的留言，真的很感动。<br>我说：希望下次见面，不会太久。</p>
-<p>即使一别两端，我也会时常眺望你们的轨道<br>知道大家都是在努力的方向，就够了。<br>啊原来是这样。</p>
-<hr>
-<p>这次回来，我几乎谁也没有告诉。<br>本来受学校的邀请，自然是一件光荣的事情。<br>但昭告天下不是我想做的，也需要保持清醒，我真的还不够好。<br>要是我真的觉得自己可以了<br>嗯，我知道，我会说。</p>
-<p>以前很喜欢《钢之炼金术士》<br>牛姨的一番话曾掀起我的幻想，那张图还一直存放在手机里<br>她说：</p>
-<blockquote>
-<p>在几年前，我扔下这样的一句话就离家出走了：<br>“不能用漫画养活自己，我誓不回来！”<br>现在，我的愿望实现了<br>我在画连载，真是太好了<br>但这下子又忙得没时间回家了<br>真是悲喜交集啊</p>
-</blockquote>
-<hr>
-<p>还没到愿望实现的时候呀<br>Back with silence<br>那就，再等等</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/assets/blogImg/diary-16.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;17号，回华科。&lt;br&gt;和上一次不一样，这次多了点儿使命感：做一次前端技术演讲。&lt;/p&gt;
-&lt;p&gt;学生时代，我听过无数场分享。&lt;br&gt;总觉得台上高谈阔论嘉宾，离我实在太远。&lt;br&gt;一次分享，一别两端，然后各自回到自己的生活轨道，再无交集。&lt;br&gt;或者是我没有入心。&lt;/p&gt;
-&lt;p&gt;但想不到，这么快台上的这个人就该是我了。&lt;br&gt;仿佛晚会还在继续，帷幔也没收起。&lt;br&gt;魔术师说，天色还早呀，我再给你们变个魔术吧&lt;br&gt;烟雾腾空，灯光明灭，时间掠影而过&lt;br&gt;我本来是台下端坐的观众，一下子就站到了台上&lt;br&gt;主持人把话筒一递，说，该你了。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="旧事" scheme="//litten.me/tags/%E6%97%A7%E4%BA%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>旧事 哪天才能歌唱的话 10.30-11.05</title>
-    <link href="//litten.me/2016/11/06/diary-2016-1030-1105/"/>
-    <id>//litten.me/2016/11/06/diary-2016-1030-1105/</id>
-    <published>2016-11-06T02:36:00.000Z</published>
-    <updated>2017-01-14T06:35:57.458Z</updated>
-    
-    <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="http://music.163.com/outchain/player?type=2&id=694286&auto=0&height=66"></iframe>
-
-<p>想起网易账户密码泄露，就发生在10月底。<br>去年的这个时候，我是受害者之一。</p>
-<p>但我没有着急改密码。<br>一是因为那个时候，我过着一种近乎抑郁灰白的生活。<br>所有的社交工具都停掉了，也不与人交流。<br>很多事情我不愿碰。<br>像燃尽的烟柱，自己伸手一掸，搞不好满世界尘埃<br>还不如让风来悄悄瘗埋。</p>
-<p>二是因为一位神秘的朋友闯进了生活。<br>我很喜欢冲绳民谣，在云音乐里上传了BEGIN的《三线の花》与《笑颜不变》。<br>这位朋友搞到我的账号密码后，貌似没做什么坏事，光给我推荐歌曲了…<br>TA先上传了没有版权的《岛人ぬ宝》，再后来是夏川和中孝介的一些歌。<br>那时，这些音乐，居然成了我跟外界连通的唯一绳索。</p>
-<a id="more"></a>
-<p>有个晚上狂风暴雨，我在深大门口已经等了一小时的车。<br>最终回到家，直接把湿透的身体，躺在花纹诡异的瓷砖上。<br>耳边传来中孝介备受摧残的声音…<br>太爽了。<br>也许世界虚无和冰冷，但我可以若无其事。<br>人生苦短，真理靠边站。</p>
-<p>深呼吸。<br>过了午夜，可以，重新开始。</p>
-<blockquote>
-<p>喜びも悲しみも いつの日か唄えるなら<br><strong>无论喜悦还是悲伤 要说哪天才能歌唱的话</strong><br>この島の土の中 秋に泣き冬に耐え<br><strong>在这座岛的土里 泣于深秋 忍受寒冬</strong><br>春に咲く 三線の花<br><strong>春天绽放 三线之花</strong></p>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=330 height=86 src=&quot;http://music.163.com/outchain/player?type=2&amp;id=694286&amp;auto=0&amp;height=66&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;想起网易账户密码泄露，就发生在10月底。&lt;br&gt;去年的这个时候，我是受害者之一。&lt;/p&gt;
-&lt;p&gt;但我没有着急改密码。&lt;br&gt;一是因为那个时候，我过着一种近乎抑郁灰白的生活。&lt;br&gt;所有的社交工具都停掉了，也不与人交流。&lt;br&gt;很多事情我不愿碰。&lt;br&gt;像燃尽的烟柱，自己伸手一掸，搞不好满世界尘埃&lt;br&gt;还不如让风来悄悄瘗埋。&lt;/p&gt;
-&lt;p&gt;二是因为一位神秘的朋友闯进了生活。&lt;br&gt;我很喜欢冲绳民谣，在云音乐里上传了BEGIN的《三线の花》与《笑颜不变》。&lt;br&gt;这位朋友搞到我的账号密码后，貌似没做什么坏事，光给我推荐歌曲了…&lt;br&gt;TA先上传了没有版权的《岛人ぬ宝》，再后来是夏川和中孝介的一些歌。&lt;br&gt;那时，这些音乐，居然成了我跟外界连通的唯一绳索。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="旧事" scheme="//litten.me/tags/%E6%97%A7%E4%BA%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>旧事 木头人 10.23-10.29</title>
-    <link href="//litten.me/2016/10/30/diary-2016-1023-1029/"/>
-    <id>//litten.me/2016/10/30/diary-2016-1023-1029/</id>
-    <published>2016-10-30T02:36:00.000Z</published>
-    <updated>2017-01-14T06:35:57.452Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/assets/blogImg/diary-15.jpg" alt=""></p>
-<p>10月的最后一周，想在天气变冷前，完成一组照片。<br>主题跟树林有关，因为我很喜欢这个季节树叶的厚重感。<br>不过，木头比人难拍太多了。<br>人非草木，起码有表情，有温度，可以装扮。<br>有两次回来，我直接就把照片全删了，心情不太爽，怎么想都是这些树木不配合。</p>
-<p>后来妥协，是不是我得自己做些改变，营造一种拟人的环境呢？<br>因此按快门时，我都很平常的喊一声：“一二三茄子！”<br>那时天色已黑，别人一看这里没人啊…<br>吓坏了两个孩子。<br>对不起！</p>
-<p>另外，一个很重要的经验<br>去小树林记得要带six god…</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/assets/blogImg/diary-15.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;10月的最后一周，想在天气变冷前，完成一组照片。&lt;br&gt;主题跟树林有关，因为我很喜欢这个季节树叶的厚重感。&lt;br&gt;不过，木头比人难拍太多了。&lt;br&gt;人非草木，起码有
-    
-    </summary>
-    
-    
-      <category term="旧事" scheme="//litten.me/tags/%E6%97%A7%E4%BA%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>旧事 荔枝永远红不了 10.16-10.22</title>
-    <link href="//litten.me/2016/10/23/diary-2016-1016-1022/"/>
-    <id>//litten.me/2016/10/23/diary-2016-1016-1022/</id>
-    <published>2016-10-23T02:36:00.000Z</published>
-    <updated>2017-01-14T06:35:57.448Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/assets/blogImg/diary-14.jpg" alt=""></p>
-<p>这只猫，是我在公园认识的。<br>一年前它还很小，每天穿行于古旧的荔枝林。<br>傍晚我习惯到公园跑步，总能在固定的地点，看到阳光把它拉成巨大猛兽的情景。<br>然而它更喜欢阴影。</p>
-<p>第一次碰到它，他就躲在阴影里。<br>因为是在车底，给它起了个名字<br>叫阿杜…（逻辑满分，拒绝吐槽）</p>
-<a id="more"></a>
-<p>阿杜起先很怕人。<br>我一走近，它就跳到树丛里，又好奇地瞪大眼珠往外看。<br>外面的世界很精彩呀，但也可能很危险。这可能是它的信条。<br>然而，在偶然喂过它几回后，它就单方面宣布和我友好了…<br>猫以食为天，信条是什么？可以吃吗？</p>
-<p>但我只是个过客，阿杜的流浪生活还得继续。<br>并且，这不意味着自由。<br>第一，它每个傍晚都要回到公园，因为这里才有游人吃剩的食物；<br>第二，跟其他小猫不一样，它居然不会爬树！</p>
-<p>所以，阿杜对树上的荔枝很感兴趣。<br>在它的视角，可能那是会日渐变大的玩具球吧。<br>有次我在树下的石凳上看书，是《树上的男爵》<br>想到柯西莫倔强地在树上度过一生，阿杜却学不会爬树，这真是个有趣的玩笑。<br>回过头来，它一动不动地伸长脖子，正瞪着眼睛往上看。<br>空气里漂浮着明媚的尘埃，它的眼睛里好似藏了个宇宙。</p>
-<p>想什么呢？谁知道。反正够不着，像星星。</p>
-<p>但不能上树的猫，和在树上不下来的柯西莫才能简单明亮，<br>最复杂的，是站在地上，又能够着“荔枝”的这个世界。<br>熟了的苹果，掉下来，砸了牛顿的头。<br>阿杜却永远等不到荔枝掉下来的那天。</p>
-<p>因为，后来发生一件事，说有流浪猫死在树下，也有小孩子经过荔枝林时头晕。<br>大家都说是荔枝喷了农药。又有公园的工作者出来“澄清”，说没有喷洒农药。<br>真真假假，早已说不清。<br>我只记得，期待了一季的荔枝，在6月将要变红的那几天，被人一扫而空。<br>因为你要快人一步，才能占得先机，迟了一天，荔枝就到别人口袋了。<br>得到了，就可以，青涩的果实？无所谓。</p>
-<p>外面的世界好精彩…</p>
-<p>这个小小的生灵，用这双眼眸，观望着它不能理解的世界。<br>这是不幸，也是幸；它躲在阴影里，也站在了太阳下。<br>那就继续期待吧阿杜。<br>在来年。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/assets/blogImg/diary-14.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;这只猫，是我在公园认识的。&lt;br&gt;一年前它还很小，每天穿行于古旧的荔枝林。&lt;br&gt;傍晚我习惯到公园跑步，总能在固定的地点，看到阳光把它拉成巨大猛兽的情景。&lt;br&gt;然而它更喜欢阴影。&lt;/p&gt;
-&lt;p&gt;第一次碰到它，他就躲在阴影里。&lt;br&gt;因为是在车底，给它起了个名字&lt;br&gt;叫阿杜…（逻辑满分，拒绝吐槽）&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="旧事" scheme="//litten.me/tags/%E6%97%A7%E4%BA%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>旧事 返校日 10.8-10.15</title>
-    <link href="//litten.me/2016/10/20/diary-2016-1008-1015/"/>
-    <id>//litten.me/2016/10/20/diary-2016-1008-1015/</id>
-    <published>2016-10-20T02:36:00.000Z</published>
-    <updated>2017-01-14T06:35:57.443Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/assets/blogImg/diary-13.jpg" alt=""></p>
-<p>“我要回武汉！”<br>这句话说了一千遍，终于兑现成一张动车票。</p>
-<p>三年前，毕业的第二天，行李被盗，大学时所有的物件付之东流。<br>背着空空的行囊回家，越想越委屈，导演剧本不对啊，人家西游记八十一难，好歹是个HAPPY ENDING…<br>感觉自己有一种迷之体质，总可以把平静的生活过得波澜壮阔。<br>左脸黑线，右脸微笑，这种技能不是谁都可以，我在考虑要不申个遗。</p>
-<p>总之，国庆后大家都返工，过上岁月静好的生活时，我一个人扛起了到武汉搞事情的大旗。</p>
-<a id="more"></a>
-<h3 id="办证"><a href="#办证" class="headerlink" title="办证"></a>办证</h3><p>首先我要办一些证件。<br>而流程的起源，是我需要到院教务处，盖一个章。<br>所以我就来到大雷音寺，如来佛问：什么事？<br>我：我的经书丢了。<br>佛：谁可以证明你是取经人？<br>我：李世民<br>佛：那你给李世民打个电话<br>我：…</p>
-<p>盖这个章的关键，就是要给当年的辅导员打一个电话，而他也要记得起我。<br>拨通电话的那一刻，心里忐忑不安。<br>据说李世民早已不当皇帝，他去了云南，说不定正在苍山洱海旁葛优躺，过着往事如烟的生活。<br>而我可能连如烟也算不上，只是一颗小小的灰烬。<br>他会记得我吗？</p>
-<p>电话通了，蒋导的嗓音貌似刚睡醒…我心里早已准备好几千字的自我介绍。<br>幸运的是，我刚说出名字，他就记起了我，还说了几件印象深刻的往事。<br>这说明我命里还是有挺多贵人，如果没有你们，我连那半张脸的微笑都会没有。</p>
-<p>还算顺利，拿着盖章的证明到了户政科。<br>这个时候，办理业务的人寥寥无几，火爆的武汉也随境遇变得柔和起来。<br>工作的大姐温柔地说，你下午来，现在办不了哦<br>我问为什么，大姐说，我们网络坏了<br>我很激动，我我我，我会修，我是专业的<br>大姐说：滚</p>
-<p>有意思。<br>不被信任的技术水平，一直是我校学子得以奋进的动力…<br>这个优良传统三年没变过，给你点个赞，我选择死亡。</p>
-<h3 id="迎新晚会"><a href="#迎新晚会" class="headerlink" title="迎新晚会"></a>迎新晚会</h3><p>几天里骑着ofo小黄车在校园瞎逛<br>这个季节对于武汉，简直是种恩赐。<br>风很柔和，阳光可以把影子拽得好长<br>荷塘充盈，桂花也开了<br>梧桐叶的绿还在绵延，准备等待一夜秋雨瞬间染红的辉煌。</p>
-<p>晚上刚好遇到迎新晚会，决定去看看。<br>端着单反走进会场，心里还想着怎么说清楚我不是新生，但希望有个座位这回事。<br>迎面一个学生会领袖身份的人，过来就对我说：你终于来了，坐第一排吧，这位置好拍照…<br>完了还给我几颗糖吃，太贴心了！<br>这位学弟，你也是我的贵人…但希望你工作仔细点啊</p>
-<p>那就只能冒充是记者部的学弟了！<br>晚会开始前，我就想，毕竟我比他们大7岁<br>会不会有代沟？<br>会不会有鬼畜视频？<br>会不会一上来就跳《极乐净土》？</p>
-<p>事实上，晚会非常的小清新，更多的是才艺展示。<br>想到很多以前的事情，也想到偌大的校园，几乎没有我认识的人了。<br>但有这群可爱的学弟学妹，华科人也会像梧桐叶一样，周而复始的成长吧。<br>总之是个奇妙而完美的夜晚。</p>
-<p>嗯，糖也挺甜的…</p>
-<h3 id="又一段路"><a href="#又一段路" class="headerlink" title="又一段路"></a>又一段路</h3><p>办完事情，校园也逛得差不多，我知道该离去了。<br>但还有时间，我计划去另外一个，离武汉不远的地方玩玩。<br>神农架、三峡、庐山、南昌，四选一。<br>不想出游被太多因素干扰，抛了两个硬币决定。<br>南昌。</p>
-<p>去南昌，我就可以凑齐三大名楼。<br>但之前的黄鹤楼和岳阳楼都不算很满意，我这次把心理预期降到最低。<br>这样一来，觉得滕王阁还不错。<br>有时候想，岳阳楼记里的“不以物喜不以己悲”境界太高，不是每个人都能达到的。<br>如果这碗鸡汤你喝不下，就像王勃一样真性情好了。<br>孤鹜不见，落霞常在，该笑就笑，该哭就哭，有什么大不了？</p>
-<p>晚上联系一个老朋友，告诉他我来你家乡啦<br>他觉得我太潇洒，又跑去玩儿了。</p>
-<p>那时我正在秋水广场看这一江的秋水<br>恍惚间，又想起毕业时行李不见的情景<br>我冲出动车站，旁边人来人往，我一人站在那感觉身体动不了，南风呼呼地吹<br>只剩下一副耳机，放着五月天的《孙悟空》，里面唱道：</p>
-<p><strong>“如果要让我活<br>请给我快乐苦痛<br>我从不怕爱错<br>就怕没爱过…”</strong></p>
-<p>有时候<br>你们觉得我浪的风生水起时，<br>我只不过又是独自一人，走过了一段快乐又苦痛的艰难路程呀。</p>
-<p>—— END. Litten on 10.20 （<em>一些照片在<a href="http://litten.me/gallery/%E8%BF%94%E6%A0%A1%E6%97%A5?password=guest" target="_blank" rel="external">这里</a></em>）</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/assets/blogImg/diary-13.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;“我要回武汉！”&lt;br&gt;这句话说了一千遍，终于兑现成一张动车票。&lt;/p&gt;
-&lt;p&gt;三年前，毕业的第二天，行李被盗，大学时所有的物件付之东流。&lt;br&gt;背着空空的行囊回家，越想越委屈，导演剧本不对啊，人家西游记八十一难，好歹是个HAPPY ENDING…&lt;br&gt;感觉自己有一种迷之体质，总可以把平静的生活过得波澜壮阔。&lt;br&gt;左脸黑线，右脸微笑，这种技能不是谁都可以，我在考虑要不申个遗。&lt;/p&gt;
-&lt;p&gt;总之，国庆后大家都返工，过上岁月静好的生活时，我一个人扛起了到武汉搞事情的大旗。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="旧事" scheme="//litten.me/tags/%E6%97%A7%E4%BA%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>旧事 Way Home 10.1-10.7</title>
-    <link href="//litten.me/2016/10/08/diary-2016-1001-1007/"/>
-    <id>//litten.me/2016/10/08/diary-2016-1001-1007/</id>
-    <published>2016-10-08T02:36:00.000Z</published>
-    <updated>2017-01-14T06:35:57.439Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/assets/blogImg/diary-10.jpg" alt=""></p>
-<p>《Way Home》是押尾的一首指弹，算不上热门，听的人也少。<br>我不喜欢一首吉他曲太过工整，羽翼丰满的老鹰，就没有了小鸟的自在。<br>不过，教科书般的工整，就有一种禁锢的美感。<br>音符好似尺子上的刻度，不差分毫。<br>如果时间也是一把尺子，那回家这件事也应该是清晰有力的刻度吧。</p>
-<p>九月的最后一天，听着它，回了家。</p>
-<p>推开门，好像一个转场回到从前，书包一丢，喊一句：我回来了，好累啊<br>然后倒在沙发上等吃的，电视上正放着《数码宝贝》。<br>这才应该是那个“无限大な梦”啊！</p>
-<a id="more"></a>
-<p>再选了一个圩日，回岭景<br>我喜欢拍那些村民跨过小木桥去赶圩的场景。<br>很容易就能定格他们的笑脸<br>因为事情很简单，收获了中意的衣服，或者零食、玩具，就是完美的一天。</p>
-<p><img src="/assets/blogImg/diary-12.jpg" alt=""></p>
-<p>无论泗罗河变得清或浊<br>无论竹林变得密或疏<br>无论是小木桥，还是后来修建的水泥桥<br>他们都可以不关心。</p>
-<p><img src="/assets/blogImg/diary-11.jpg" alt=""></p>
-<p>很多事情，只要你不关心，<br>你就没有了软肋，拥有了无敌的buff，<br>就能很容易把笑容挂在脸上</p>
-<p>真理。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/assets/blogImg/diary-10.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;《Way Home》是押尾的一首指弹，算不上热门，听的人也少。&lt;br&gt;我不喜欢一首吉他曲太过工整，羽翼丰满的老鹰，就没有了小鸟的自在。&lt;br&gt;不过，教科书般的工整，就有一种禁锢的美感。&lt;br&gt;音符好似尺子上的刻度，不差分毫。&lt;br&gt;如果时间也是一把尺子，那回家这件事也应该是清晰有力的刻度吧。&lt;/p&gt;
-&lt;p&gt;九月的最后一天，听着它，回了家。&lt;/p&gt;
-&lt;p&gt;推开门，好像一个转场回到从前，书包一丢，喊一句：我回来了，好累啊&lt;br&gt;然后倒在沙发上等吃的，电视上正放着《数码宝贝》。&lt;br&gt;这才应该是那个“无限大な梦”啊！&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="旧事" scheme="//litten.me/tags/%E6%97%A7%E4%BA%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>旧事 凯里 9.11-9.24</title>
-    <link href="//litten.me/2016/09/25/diary-2016-0911-0924/"/>
-    <id>//litten.me/2016/09/25/diary-2016-0911-0924/</id>
-    <published>2016-09-25T02:36:00.000Z</published>
-    <updated>2017-01-14T06:35:57.434Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/assets/blogImg/diary-9.jpg" alt=""></p>
-<blockquote>
-<p><em>市面上的web相册都不好用，干脆自己做了个<a href="http://litten.me/gallery/%E7%8E%A9%C2%B7%E5%87%AF%E9%87%8C?password=guest" target="_blank" rel="external">相册</a>，github开源，取名为<a href="https://github.com/litten/zing-gallery" target="_blank" rel="external">Zing</a>，待填坑…</em></p>
-</blockquote>
-<hr>
-<p>6月初，要上腾讯大讲堂分享。<br>PPT准备得差不多，缺了个演讲的节奏。<br>我希望的风格是逻辑分明，又不会太过枯燥的，但均衡好这两者并不简单。</p>
-<p>又发觉，“逻辑分明”加“不太枯燥”，<br>掌握不好节奏，就是“一本正经“加”胡说八道”的意思呀！<br>这让我有点慌，搞不好过不久别人就指着我说：看，前端界的泥石流…</p>
-<p>于是那几天，一直听“一席”来找灵感。<br><a href="http://yixi.tv/lecture/366" target="_blank" rel="external">毕赣《路边野餐》</a>的那一段意外的好，也从中深深地记住了一个陌生的地名：<strong>凯里</strong>。</p>
-<p>我喜欢那种，经行语言（而不是光影）就能渲染出来的，边陲小镇特有的青翠与市侩。</p>
-<a id="more"></a>
-<p>中秋之后的那个早上，醒来得莫名的早。<br>想起凯里，顺手查了动车票，意外的只剩一张，出发时间是两小时后。那还来得及，走起吧。</p>
-<p>于是从深圳到广州，再到贵阳，再到凯里，再到西江千户苗寨，我就到了这个以前压根不知道的地方。<br>百转千回的路程，好像电影胶片被剪辑掉，然后镜头一转，苗家的姑娘就捧着酒站到跟前。</p>
-<p>西江和九月，是两个很烂俗的词。<br>世界上有很多个地方叫西江，也有很多首歌叫九月。<br>然而九月的西江，是一段深刻的旅行。<br>发生的许多事情，看到的许多景，足以忘烦忧。对我来说这就够了。</p>
-<p>人们总是要用“说走就走”来标榜旅行，<br>貌似有了它，才多了一份洒脱。<br>但于我说，这样经常是迫不得已，<br>如果能够，我喜欢一个词，叫“蓄谋已久”。</p>
-<p>我可以精心准备，旅行如约而至。<br>仿佛是一位尊贵的客人，<br>出现在那个预期的，天朗气清的时分。<br>这说明，你的生活总掌握在自己的手里。</p>
-<p>用不着洒脱，才是最大的洒脱。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/assets/blogImg/diary-9.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;市面上的web相册都不好用，干脆自己做了个&lt;a href=&quot;http://litten.me/gallery/%E7%8E%A9%C2%B7%E5%87%AF%E9%87%8C?password=guest&quot;&gt;相册&lt;/a&gt;，github开源，取名为&lt;a href=&quot;https://github.com/litten/zing-gallery&quot;&gt;Zing&lt;/a&gt;，待填坑…&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr&gt;
-&lt;p&gt;6月初，要上腾讯大讲堂分享。&lt;br&gt;PPT准备得差不多，缺了个演讲的节奏。&lt;br&gt;我希望的风格是逻辑分明，又不会太过枯燥的，但均衡好这两者并不简单。&lt;/p&gt;
-&lt;p&gt;又发觉，“逻辑分明”加“不太枯燥”，&lt;br&gt;掌握不好节奏，就是“一本正经“加”胡说八道”的意思呀！&lt;br&gt;这让我有点慌，搞不好过不久别人就指着我说：看，前端界的泥石流…&lt;/p&gt;
-&lt;p&gt;于是那几天，一直听“一席”来找灵感。&lt;br&gt;&lt;a href=&quot;http://yixi.tv/lecture/366&quot;&gt;毕赣《路边野餐》&lt;/a&gt;的那一段意外的好，也从中深深地记住了一个陌生的地名：&lt;strong&gt;凯里&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;我喜欢那种，经行语言（而不是光影）就能渲染出来的，边陲小镇特有的青翠与市侩。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="旧事" scheme="//litten.me/tags/%E6%97%A7%E4%BA%8B/"/>
-    
-      <category term="旅行" scheme="//litten.me/tags/%E6%97%85%E8%A1%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>旧事 imweb-conf 9.4-9.10</title>
-    <link href="//litten.me/2016/09/11/diary-2016-0904-0910/"/>
-    <id>//litten.me/2016/09/11/diary-2016-0904-0910/</id>
-    <published>2016-09-11T02:36:00.000Z</published>
-    <updated>2017-01-14T06:35:57.428Z</updated>
-    
-    <content type="html"><![CDATA[<p>“<a href="http://imweb.io/topic/57d8ded5eebf12d673f74cdc?utm_source=tuicool&amp;utm_medium=referral" target="_blank" rel="external">imweb-conf 2016</a> ”周六开始<br>每到这个时候，都觉得一年又过去得这么快。<br>今年，有直播，有嘉宾，居然还有饭吃，太厉害了。</p>
-<p>回想自己第一次上台，也是在这个大会。<br>不过，当时说的啥肯定很傻。<br>但记得我做了个不错的开场。<br>果然吹牛更能达成诗和远方、光芒万丈的效果。</p>
-<p>另外一个期待，就是能见着许多老朋友<br>他们风尘仆仆，从各地赶来。<br>八千里路云和月，千里江陵一日还，仿佛一种迷之仪式感，出场的时候都应该会有bgm响起</p>
-<p>然而周六那天，突然就发烧了<br>应该是前两夜熬夜做设计带来的连锁反应。<br>那晚做了个梦：皓月当空，天光似水<br>而我的想法居然是，这个月亮好碍眼，怎么用图章工具把这月亮给干掉…</p>
-<p>Photoshop有毒，真的。</p>
-<p>恍惚中想起那个，每年惊蛰，朋友从东方带来一壶酒的故事…<br>然而早已白露而不是惊蛰，世间上也没有那壶叫醉生梦死的酒。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;“&lt;a href=&quot;http://imweb.io/topic/57d8ded5eebf12d673f74cdc?utm_source=tuicool&amp;amp;utm_medium=referral&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;imweb
-    
-    </summary>
-    
-    
-      <category term="旧事" scheme="//litten.me/tags/%E6%97%A7%E4%BA%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>旧事 奥运 8.14-8.20</title>
-    <link href="//litten.me/2016/08/21/diary-2016-0814-0820/"/>
-    <id>//litten.me/2016/08/21/diary-2016-0814-0820/</id>
-    <published>2016-08-21T02:36:00.000Z</published>
-    <updated>2017-01-14T06:35:57.424Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/assets/blogImg/diary-5.jpg" alt="by Chow Hon Lam on Dribble"> </p>
-<p>每晚小板凳备好，乐呵去守着CCTV5<br>里约这个时差刚刚好，反正我忙得不行，只有晚上这点属于自己的时间。</p>
-<p>这两周主要看乒乓赛事<br>最好看还是男团张继科打郑荣植那场<br>郑的反手很强，张却持续使用反手拧拉<br>攻彼之长，陷入苦战</p>
-<p>杨影相当着急，也说张应该选择打正手<br>扬长避短，吃瓜群众都看得出来，何尝张不知道呢？<br>只是，如果这么做，他就可能是马琳或刘国梁，而不是那个鲜衣怒马的张继科了。</p>
-<p>可能这才是我喜欢的奥运吧。</p>
-<p>人有时候，<br>就应该热血而执拗<br>就应该忽略掉喋喋不休的劝诫<br>就应该蠢到无与伦比，不懂变通<br>只为在最终的最终，说上一句：<br>“还是我赢了”。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/assets/blogImg/diary-5.jpg&quot; alt=&quot;by Chow Hon Lam on Dribble&quot;&gt; &lt;/p&gt;
-&lt;p&gt;每晚小板凳备好，乐呵去守着CCTV5&lt;br&gt;里约这个时差刚刚好，反正我忙得不行，只有晚上这点属于自己的时间。&lt;/
-    
-    </summary>
-    
-    
-      <category term="旧事" scheme="//litten.me/tags/%E6%97%A7%E4%BA%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>旧事 神海 8.7-8.13</title>
-    <link href="//litten.me/2016/08/14/diary-2016-0807-0813/"/>
-    <id>//litten.me/2016/08/14/diary-2016-0807-0813/</id>
-    <published>2016-08-14T02:36:00.000Z</published>
-    <updated>2017-01-14T06:35:57.420Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/assets/blogImg/diary-2.jpg" alt="神秘海域4"></p>
-<h4 id="神秘海域"><a href="#神秘海域" class="headerlink" title="神秘海域"></a>神秘海域</h4><p>从5月买的游戏，现在才有时间玩上。<br>近乎满分的作品，感谢顽皮狗一直以来的热诚。<br>同时，“神海”已经取缔了“古墓”在我心目中的地位…</p>
-<p>寻宝之路，哪来这么多的浪漫色彩？<br>你以为人生已经圆满，<br>你以为生活早已波澜不惊，<br>你以为年少的轻狂已只能想想而已</p>
-<p>但风云变幻就在一瞬，<br>谎言、梦想、亲情、背叛，如子弹般交织成网，<br>射穿了千丝万缕的爱恨情仇，也留下一个千疮百孔的自己。</p>
-<p>无论正牌反派，他们都是有血有肉的灵魂。</p>
-<p>德雷克拿起玩具水枪的那一幕，<br>让我觉得顽皮狗和育碧之间，至少差了10个B社。</p>
-<a id="more"></a>
-<h4 id="奥运开始啦"><a href="#奥运开始啦" class="headerlink" title="奥运开始啦"></a>奥运开始啦</h4><p>打电话跟奶奶聊天，问她还记得孔令辉吗？<br>她像个小孩子一样，开心地聊了起来<br>“怎么不记得？那时他落后好几分，然后…”</p>
-<p>奶奶现在有时连亲人的名字都不记得，<br>却对这些以前的“孩子”记忆如新。<br>这些孩子，都长大了。当教练了。都挺好。</p>
-<p>青春不过几届奥运呀…<br>不过他们都长成了“月半”这件事，还是不要告诉奶奶了。</p>
-<h4 id="失眠"><a href="#失眠" class="headerlink" title="失眠"></a>失眠</h4><p>最近摘抄一些笔记，偶然遇到一句诗，感觉很奇妙，眼前一亮的感觉。</p>
-<blockquote>
-<p>危栏倚遍都无寐，只恐星河堕入楼。 ——《秋夕楼居》吴融</p>
-</blockquote>
-<p>这周依然失眠，<br>反正改变不了的事情，该怎么样就怎么样呗，<br>只不过同是失眠，别人的境界就是比我的高<br>我在想的都是些什么玩意？</p>
-<h4 id="NPM"><a href="#NPM" class="headerlink" title="NPM"></a>NPM</h4><p>越发感觉，NPM的设计是有问题的…<br>从2.0到3.0，并没有像官方说得那么靠谱。<br>找了一些成熟的包管理工具研究，都有一定差别。<br>只是我们大多情况下，都选择忽略罢了</p>
-<p>然而还没有想透<br>兴许后面写篇文章剖析一下。<br>我已经很久没写技术文章了呀<br>面壁2分钟，惭愧5小时。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/assets/blogImg/diary-2.jpg&quot; alt=&quot;神秘海域4&quot;&gt;&lt;/p&gt;
-&lt;h4 id=&quot;神秘海域&quot;&gt;&lt;a href=&quot;#神秘海域&quot; class=&quot;headerlink&quot; title=&quot;神秘海域&quot;&gt;&lt;/a&gt;神秘海域&lt;/h4&gt;&lt;p&gt;从5月买的游戏，现在才有时间玩上。&lt;br&gt;近乎满分的作品，感谢顽皮狗一直以来的热诚。&lt;br&gt;同时，“神海”已经取缔了“古墓”在我心目中的地位…&lt;/p&gt;
-&lt;p&gt;寻宝之路，哪来这么多的浪漫色彩？&lt;br&gt;你以为人生已经圆满，&lt;br&gt;你以为生活早已波澜不惊，&lt;br&gt;你以为年少的轻狂已只能想想而已&lt;/p&gt;
-&lt;p&gt;但风云变幻就在一瞬，&lt;br&gt;谎言、梦想、亲情、背叛，如子弹般交织成网，&lt;br&gt;射穿了千丝万缕的爱恨情仇，也留下一个千疮百孔的自己。&lt;/p&gt;
-&lt;p&gt;无论正牌反派，他们都是有血有肉的灵魂。&lt;/p&gt;
-&lt;p&gt;德雷克拿起玩具水枪的那一幕，&lt;br&gt;让我觉得顽皮狗和育碧之间，至少差了10个B社。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="旧事" scheme="//litten.me/tags/%E6%97%A7%E4%BA%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>旧事 等风来 7.31-8.6</title>
-    <link href="//litten.me/2016/08/07/diary-2016-0731-0806/"/>
-    <id>//litten.me/2016/08/07/diary-2016-0731-0806/</id>
-    <published>2016-08-07T02:36:00.000Z</published>
-    <updated>2017-01-14T06:35:57.416Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/assets/blogImg/diary-7.jpg" alt=""></p>
-<p>七月底，去了趟冰雪世界。<br>之前很是期待，因为大半年没滑过雪，上次的情景还历历在目。<br>然而，只有滑冰…挺无趣的，说实话。<br>但期待是个好事<br>所以我也挺期待台风的（什么鬼逻辑？）</p>
-<p>八月初，妮妲过境。</p>
-<p>台风果真会影响人的思考与心绪。<br>以前那次是“黑云压城城欲摧”，如临大敌，跑还来不及<br>但这次甚至连雨点儿都没有<br>我一开始有点怀疑</p>
-<p>又突然想到，产品同学在给我布置大需求时<br>也是这般“暴风雨前的宁静”<br>那我还是跑吧…</p>
-<p>这周失眠严重<br>我想做很多事情，但一起步就感觉身体被枷锁连着<br>在夜晚，这些锁链碰得叮当作响<br>像是银白的蛛网，不断交织重叠。<br>我把佛经背了又背</p>
-<p>台风来的那天晚上<br>吹得窗户好响<br>反而睡得很好<br>可能，妮妲吹走了一些魔障吧</p>
-<p>每一个台风天，都像是我的老朋友。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/assets/blogImg/diary-7.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;七月底，去了趟冰雪世界。&lt;br&gt;之前很是期待，因为大半年没滑过雪，上次的情景还历历在目。&lt;br&gt;然而，只有滑冰…挺无趣的，说实话。&lt;br&gt;但期待是个好事&lt;br&gt;所以我
-    
-    </summary>
-    
-    
-      <category term="旧事" scheme="//litten.me/tags/%E6%97%A7%E4%BA%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>在鼓浪屿</title>
-    <link href="//litten.me/2016/08/01/gulangyu/"/>
-    <id>//litten.me/2016/08/01/gulangyu/</id>
-    <published>2016-07-31T17:36:00.000Z</published>
-    <updated>2017-01-14T06:35:57.492Z</updated>
-    
-    <content type="html"><![CDATA[<p>—— litten 2015.11.04</p>
-<p>要不要去厦门玩玩？<br>这个问题，在出发前一晚还是个问题。<br>早上一起来，感觉无数个灵魂在逼催着我：去！<br>这感觉过于强烈，似乎不去那儿，世界就要毁灭了…</p>
-<p><img src="/assets/blogImg/gulangyu.jpg" alt="a cat"><br><a id="more"></a><br>为了拯救世界，买了到厦门的动车票，再从三丘田码头坐轮渡，傍晚来到了鼓浪屿。<br>住的客栈接近龙头路，吃的玩的都有，一个人也逍遥自在。<br>赖皮鸭，虾扯蛋，芒果冰，林氏鱼丸，烧仙草，当然还有各种海鲜，变着花样来品尝。<br>睡觉时还惦记着没能排队买到的肠粉。</p>
-<p>第二天主要是游览古迹。观海园、怡园、皓月园、菽庄藏海，路程虽远，但也有趣。<br>路遇算命猜姓的先生，20块钱，猜你姓名。<br>我在一旁看看究竟。<br>原来有很张写满姓氏的卡片，要猜的人，需要挑选出包含自己姓氏的那张。<br>如此重复几次，算命先生能准确猜出你的姓氏。</p>
-<p>无非是数学游戏，一横一竖，玄机在交叉点呗。<br>不过断人财路可不好，笑笑离开。</p>
-<p>当然，作为一个路痴，旅行中不出点意外好像就是最大的意外。<br>不出所料，我迷路了。<br>等我赶到日光岩时，月光已经洒满了海面。<br>门票已经买了，我还是想上去，即使这地儿人影都没有。</p>
-<p>日光寺在山腰，弘一法师曾在这住过。<br>登山时，寺里梵唱迭起，木鱼敲击，声声入耳，仿佛从四面八方涌来。<br>感觉自己的身体暴露在广大的宗教尊严面前<br>渺小而恐惧。<br>手机的电筒不能安慰心理，索性关掉了。</p>
-<p>我不会梵语，但会背心经。也在心中默念“照见五蕴皆空，度一切苦厄…”<br>不知不觉，突然发现已来到了山顶。<br>就这样，一座岛的全貌突然尽收眼底。<br>这是见过的，最美的鼓浪屿。<br>风呼呼的吹，仿佛月光不是直直的，有了一些弧度与质感。<br>心情便好多了。什么升职加薪迎娶白富美，都去TMD。</p>
-<p>随后，我听到身后有脚步声，有人也跑到了山顶<br>定睛一看，居然还是个女孩。<br>我们见到对方都相视一笑，随后约好一起下山。<br>她说她叫天天，天天快乐的天天。</p>
-<p>跟她去看了音乐会，又走到龙头路找吃的。<br>但她什么也不愿意吃，一问，她说，想吃酸辣土豆丝。<br>只有笑着承认，真是意料之外的答案。<br>我出来玩，就是为了吃平时吃不到的东西；<br>她则是觉得家乡的菜最熟悉，在哪都愿意吃的。</p>
-<p>好吧，陪你吃，<br>因为离开武汉这么久，我也挺想念这道菜。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;—— litten 2015.11.04&lt;/p&gt;
-&lt;p&gt;要不要去厦门玩玩？&lt;br&gt;这个问题，在出发前一晚还是个问题。&lt;br&gt;早上一起来，感觉无数个灵魂在逼催着我：去！&lt;br&gt;这感觉过于强烈，似乎不去那儿，世界就要毁灭了…&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/blogImg/gulangyu.jpg&quot; alt=&quot;a cat&quot;&gt;&lt;br&gt;
-    
-    </summary>
-    
-    
-      <category term="旅行" scheme="//litten.me/tags/%E6%97%85%E8%A1%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>旧事 《巨人的陨落》7.24-7.30</title>
-    <link href="//litten.me/2016/07/31/diary-2016-0724-0730/"/>
-    <id>//litten.me/2016/07/31/diary-2016-0724-0730/</id>
-    <published>2016-07-31T02:36:00.000Z</published>
-    <updated>2017-01-14T06:35:57.412Z</updated>
-    
-    <content type="html"><![CDATA[<p>吉他遇到了一些瓶颈，这周没练。<br>并且状态不好，休息一下。<br>击勾弦先这样吧<br>三连音的速度为什么还是这么慢<br>AM技巧总感觉拍的那下差了些什么</p>
-<p>是什么呢？是什么呢？是什么呢？</p>
-<p><img src="/assets/blogImg/diary-4.jpg" alt=""> </p>
-<p>然后看了会《巨人的陨落》。<br>的确是本好书，多线叙事本来就是我的菜。难得的，又没有开启上帝视角的感觉。<br>文笔很稳，有点像平静的湖水在慢慢上涨<br>你起初感受不到，回过神来，早已波澜壮阔。<br>这么说来有点像《天龙八部》，但多了点历史的更迭在其中。</p>
-<p>喜欢一句话叫“时代洪流下一个群体的苦苦挣扎”<br>很多时候，大家都说顺者生，逆者亡<br>但大多数人，在时代面前根本没有方向<br>他们，只是在挣扎</p>
-<p>王二与陈清扬如此。<br>白灵与鹿兆鹏也如此。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;吉他遇到了一些瓶颈，这周没练。&lt;br&gt;并且状态不好，休息一下。&lt;br&gt;击勾弦先这样吧&lt;br&gt;三连音的速度为什么还是这么慢&lt;br&gt;AM技巧总感觉拍的那下差了些什么&lt;/p&gt;
-&lt;p&gt;是什么呢？是什么呢？是什么呢？&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/blogImg/
-    
-    </summary>
-    
-    
-      <category term="旧事" scheme="//litten.me/tags/%E6%97%A7%E4%BA%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>旧事 pokemon go 7.17-7.23</title>
-    <link href="//litten.me/2016/07/24/diary-2016-0717-0723/"/>
-    <id>//litten.me/2016/07/24/diary-2016-0717-0723/</id>
-    <published>2016-07-24T02:36:00.000Z</published>
-    <updated>2017-01-14T06:35:57.408Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/assets/blogImg/diary-3.jpg" alt=""> </p>
-<p>只想着做一件事，抓精灵。<br>坐车时抓。吃饭时抓。睡觉时抓。半躺着还能精确地抛出精灵球，我都佩服自己。<br>需求会，拿出手机一看，野生的皮皮蹦来跳去。抓吗？<br>好像有点不合适…开着会，太猖狂了，不好。</p>
-<p>但是，这只皮皮跳得比我还猖狂哎？<br>抓。</p>
-<p>调整相机位置，转动精灵球，弧线完美，一击命中。<br>然而，并没有引起大家的注意，毕竟<br>我更像是在拍白板的笔记…还蛮认真的…</p>
-<p>不过，这次的需求，真的是很无聊。</p>
-<p>说起pokemon，这真的是我有认知以来，最先喜欢的动漫。<br>我记得孤独小火龙在雨中漫步<br>我记得不想长大的妙蛙种子咧嘴傻笑<br>我记得巴大蝴离去的那天，我还哭过<br>一部能让小孩看哭的幼稚动漫，不会差的，对吧？</p>
-<p>只是我们最终还是孤独了，长大了，还是被一次次的离别碾压而过。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/assets/blogImg/diary-3.jpg&quot; alt=&quot;&quot;&gt; &lt;/p&gt;
-&lt;p&gt;只想着做一件事，抓精灵。&lt;br&gt;坐车时抓。吃饭时抓。睡觉时抓。半躺着还能精确地抛出精灵球，我都佩服自己。&lt;br&gt;需求会，拿出手机一看，野生的皮皮蹦来跳去。抓吗？&lt;b
-    
-    </summary>
-    
-    
-      <category term="旧事" scheme="//litten.me/tags/%E6%97%A7%E4%BA%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>旧事 招人太难了 7.10-7.16</title>
-    <link href="//litten.me/2016/07/18/diary-2016-0710-0716/"/>
-    <id>//litten.me/2016/07/18/diary-2016-0710-0716/</id>
-    <published>2016-07-18T02:36:00.000Z</published>
-    <updated>2017-01-14T06:35:57.404Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/assets/blogImg/diary-6.jpg" alt=""></p>
-<p>最近招聘令我很头痛。<br>每天各个网站刷简历，收获却甚少。<br>周六甚至组织了招聘专场，喊号的模式确实高效，但还不够。</p>
-<p>简历难找，却经常让人哭笑不得。<br>比如前端专业技能一项，<br>有写<strong>“拥有机动车驾驶证”</strong>的<br>有写<strong>“我有加入中国共产党”</strong>的<br>还有写<strong>“多次与外教交流”</strong>的</p>
-<p><img src="/assets/blogImg/diary-1.jpg" alt=""> </p>
-<p>该做一个什么样子的表情呢？<br>特别是最后一位，还不如改成“多次与产品经理交流”，因为他们比外教更难交流呢！</p>
-<p>有的面试者，在回答第一个问题时，我就知道过不了。<br>但还是跟他一个一个问题的过。<br>因为，我讨厌让人一无所获的感觉。<br>他对我已经没价值了，但希望我能点用处，<br>给予一些指引，明白哪些不足<br>小小的功德吧</p>
-<p>陌生的朋友，祝你下次好运。<br>阿弥陀佛</p>
-<p>周四忙到了快12点，还坐错了车，<br>再从深圳湾打的回宝安，整个人都不好了<br>看来作为前端，“拥有机动车驾驶证”还是有必要的。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/assets/blogImg/diary-6.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;最近招聘令我很头痛。&lt;br&gt;每天各个网站刷简历，收获却甚少。&lt;br&gt;周六甚至组织了招聘专场，喊号的模式确实高效，但还不够。&lt;/p&gt;
-&lt;p&gt;简历难找，却经常让人哭笑不得
-    
-    </summary>
-    
-    
-      <category term="旧事" scheme="//litten.me/tags/%E6%97%A7%E4%BA%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>长白山 | 来去匆匆，惊鸿一瞥</title>
-    <link href="//litten.me/2016/04/01/changbaishan/"/>
-    <id>//litten.me/2016/04/01/changbaishan/</id>
-    <published>2016-04-01T02:36:00.000Z</published>
-    <updated>2017-01-14T06:35:57.378Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/assets/blogImg/changbaishan-1.jpg" alt="尝尝雪味道"></p>
-<p>—— 写于 2015.12.02 ， 一篇旧游记 </p>
-<h3 id="冷！"><a href="#冷！" class="headerlink" title="冷！"></a>冷！</h3><p>到吉林下了飞机，虽做足了准备，还是冷<br>现在，南国的深圳依然是穿短袖的季节，朋友说，仿佛一夜入冬。<br>但这才是真正的冬天呀！</p>
-<p>小时候作文写四季，唯秋冬难写。<br>如果南方的季节是一把尺子，那它的刻度仅仅是温度的高低<br>到了北方，这把尺子，才变得有质感<br>它丈量着你每一寸的身体发肤</p>
-<p>随行的朋友对下雪满怀期待<br>但听说大雪会封山，可能看不到天池时<br>又陷入愁云惨淡中<br>应了那句话叫“一颗心掉进了冰窖里”</p>
-<p>但未来的事管它呢？<br>那是上帝决定的事情。<br>上帝在工作我在玩，还有什么不开心？（可惜这逻辑没人懂）</p>
-<a id="more"></a>
-<h3 id="鱼"><a href="#鱼" class="headerlink" title="鱼"></a>鱼</h3><p>行走在结冰的松花江上，神清气爽。<br>我喜欢看冻在冰里的小气泡<br>有一种定格相片的美感</p>
-<p>途遇放生的人们，他们表情凝重，一脸严肃<br>随后旌旗翻飞，佛经传扬，鱼虾入水，<br>江面恢复平静后，他们也终于露出了笑脸</p>
-<p>随后在江旁的饭店用餐<br>服务员介绍道：这道蒸鱼，就来自松花江里！<br>真是让人啼笑皆非的事情<br>鱼，让两类不同的人都得到了欢喜<br>可能鱼就是佛吧？</p>
-<h3 id="地广人稀"><a href="#地广人稀" class="headerlink" title="地广人稀"></a>地广人稀</h3><p>下午三点半的时分，天色已逐渐漆黑，市民们陆续回家<br>我想，鹅厂要是在东北，那就是睡个午觉就下班的节奏！<br>不过听说平时要六点多起床上班<br>我又打消了这念头</p>
-<p>但东北确实地广人稀<br>晚上很多店铺都早早关门<br>手套和帽子找了很久才买到<br>但泡温泉的泳裤就难办了<br>况且，在零下十几度的世界里卖泳裤的人，<br>脑子都有问题吧…</p>
-<h3 id="度假区"><a href="#度假区" class="headerlink" title="度假区"></a>度假区</h3><p>后续几天都住万达度假区里<br>漂亮且休闲的小镇，我很喜欢这里。</p>
-<p>也在这学会了滑雪，秦教练尽心尽责<br>得知我是鹅厂工程师后，<br>还加我微信，让我以后有问题多问他（然而我不用微信）<br>他似乎对互联网很感兴趣，<br>我怕他一冲动走上了程序员的不归路<br>跟他说：好好工作，少上网！</p>
-<p>后来偶遇王思聪开了夜场，可以玩到很晚<br>然后在雪夜里迷了路…<br>那晚，我是怎么回到酒店的？<br>这已经是一个未解之谜。</p>
-<h3 id="天池"><a href="#天池" class="headerlink" title="天池"></a>天池</h3><p>也终于到了上长白山的时候！<br>早上还下着雪，导游安慰说：<br>已经封山了一个月，邓小平去了几次都没见着天池云云<br>似乎上帝已经做出了决定</p>
-<p>但旅行之所以迷人，就在于各种不确定性<br>吃完午饭大概一点半，一个消息在园区内爆炸开来—— 封山结束！<br>每个人欣喜若狂，<br>司机大哥相当豪爽，用袖子把车上的积雪一推，只留下一个字：<br>走。</p>
-<p>车子旋绕而行，山路确实很险<br>白茫茫的一片，要是不熟悉真的分不清哪里是路<br>窗外风声越来越大，仿佛有无数的野禽在嘶鸣<br>也终于来到了山顶</p>
-<p>此刻才觉得，所有的防寒措施都不管用<br>风雪抓住每个机会向你的身体里钻<br>刀片般的飞雪把脸刮得通红<br>手机的锂电池也放弃了抵抗<br>陷入了“冬眠”</p>
-<p>那还能怎样？跳吧！让热量释放出来！<br>蹦着走过那段最艰难的路<br>安详的天池就突然出现在脚下</p>
-<p><img src="/assets/blogImg/changbaishan-2.jpg" alt=""></p>
-<p>太阳仿佛只离她几公分<br>柔和的光潜入水中，幻化为风<br>谦卑地贴着湖面缓缓地吹…<br>光与水顺着千年的血脉流进心间，<br>天池，就变成了一枚绝世风华的眼眸。<br>你未能看清，她的眼神里藏了多少秘密，<br>她却早已把你的灵魂一眼望穿。<br>这让我突然忘记了寒冷</p>
-<p>半小时后，风雪加急<br>工作人员催着下山，封山又要开始了<br>这让我更觉得神奇<br>好像天池，就等我见她一面。</p>
-<h3 id="不多"><a href="#不多" class="headerlink" title="不多"></a>不多</h3><p>我要的不多。<br>真的不多。<br>你的一面，一眼，一念，一瞬<br>我就能幸福。<br>事情就能圆满。</p>
-<p>“我为你来看我不顾一切，<br>我将熄灭永不能再回来<br>我在这里啊<br>我在这里啊<br>惊鸿一般短暂<br>像夏花一样绚烂……”</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/assets/blogImg/changbaishan-1.jpg&quot; alt=&quot;尝尝雪味道&quot;&gt;&lt;/p&gt;
-&lt;p&gt;—— 写于 2015.12.02 ， 一篇旧游记 &lt;/p&gt;
-&lt;h3 id=&quot;冷！&quot;&gt;&lt;a href=&quot;#冷！&quot; class=&quot;headerlink&quot; title=&quot;冷！&quot;&gt;&lt;/a&gt;冷！&lt;/h3&gt;&lt;p&gt;到吉林下了飞机，虽做足了准备，还是冷&lt;br&gt;现在，南国的深圳依然是穿短袖的季节，朋友说，仿佛一夜入冬。&lt;br&gt;但这才是真正的冬天呀！&lt;/p&gt;
-&lt;p&gt;小时候作文写四季，唯秋冬难写。&lt;br&gt;如果南方的季节是一把尺子，那它的刻度仅仅是温度的高低&lt;br&gt;到了北方，这把尺子，才变得有质感&lt;br&gt;它丈量着你每一寸的身体发肤&lt;/p&gt;
-&lt;p&gt;随行的朋友对下雪满怀期待&lt;br&gt;但听说大雪会封山，可能看不到天池时&lt;br&gt;又陷入愁云惨淡中&lt;br&gt;应了那句话叫“一颗心掉进了冰窖里”&lt;/p&gt;
-&lt;p&gt;但未来的事管它呢？&lt;br&gt;那是上帝决定的事情。&lt;br&gt;上帝在工作我在玩，还有什么不开心？（可惜这逻辑没人懂）&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="旅行" scheme="//litten.me/tags/%E6%97%85%E8%A1%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Minecraft与《协纪辨方书》</title>
-    <link href="//litten.me/2016/02/13/feng-shui/"/>
-    <id>//litten.me/2016/02/13/feng-shui/</id>
-    <published>2016-02-13T15:55:00.000Z</published>
-    <updated>2017-01-14T06:35:57.473Z</updated>
-    
-    <content type="html"><![CDATA[<p>春节回家，看着书架藏书甚多，选几本晚时翻翻。<br>《协纪辨方书》有趣，但讲的主要是风水。有朋友说别闹，你个从事IT的人，看什么风水？互联网思维看风水？！<br>其实只是图个有意思。</p>
-<p>有时我想起爷爷，一位老中医。房间里摆了十本书，三本中医著作，七本风水宝典。我都有认真数过。<br>问他，病人会不会觉得你的药方子是靠“算”出来的？<br>他说，那十本书，都是一个意思！<br>当时还是个孩子的我，只能做出我还只是个孩子的表情。<br>不过，这致使看着《走近科学》长大的我，并不对风水排斥。</p>
-<p>后来，有次我想按着“梅花易数”去用程序实现。<br>逻辑部分毫无问题，但起卦部分太过随意了，又不是程序能控制的。<br>也许是我道行尚浅，至今尚未摸清起卦与取卦的时机。但也深深怀疑书本上的描述，以及实际操作的可能。</p>
-<p>比方说…</p>
-<a id="more"></a>
-<p>古人今日赏竹，摘一竹枝，以竹叶数起卦；<br>今日起风，观其风向，辩其声势起卦；<br>内有佳人，琴声铮铮，笑语嫣然，以声音也可起卦。<br>总之非常的雅致…</p>
-<p>那我一个宅男，是不是得靠动漫集数，游戏关卡数，方便面调料包数去起卦呢？<br>总之非常的扯。</p>
-<p>因而我并不信风水。只是明月当空，大江东去，古人看到这些，他们的思绪是怎样的？<br>一步步去揣测他们的揣测，自觉得是件有趣的事情。</p>
-<p>近几天看了些古书，发现古人对地形的思考还是挺有意思的。<br>纪晓岚修《四库全书》，将《协纪辨方书》选入子部。<br>日月表太繁杂，像一本字典；<br>制煞部分太玄乎，感觉靠脑补就可以写小说；<br>其余部分压根儿看不懂；<br>倒是开山立向，关乎地形研究。虽远不及书中摸金校尉寻龙点穴这么荡气回肠，但古人对于环境的理解却有独到之处。<br>对于一些地形，既然学了就记录一下吧。于是想到了Minecraft。</p>
-<h4 id="山环水抱-吉"><a href="#山环水抱-吉" class="headerlink" title="山环水抱 - 吉"></a>山环水抱 - 吉</h4><p><img src="/assets/blogImg/fengshui0.png" alt=""></p>
-<p>“凡宅，山环水抱，必有贵气”<br>不明觉厉型。有书说，“水绕便是龙身泊”，然而实际的用处是什么呢？不懂。<br>不过有条河绕着，在Minecraft里倒是比较好防御僵尸小白苦力怕什么的…</p>
-<h4 id="河右为吉-吉"><a href="#河右为吉-吉" class="headerlink" title="河右为吉 - 吉"></a>河右为吉 - 吉</h4><p><img src="/assets/blogImg/fengshui1.png" alt=""><br>“河右为吉，河左为凶”<br>就高中地理尚存的记忆，河流右岸会比左岸高，居高临下，道法天成。<br>其实想想，哈尔滨，佳木斯居松花江右；兰州，西安，洛阳居黄河右；重庆、上海居长江右。<br>一说也蛮有道理。<br>倒是“江左梅郎”，原来这名字一开始就是要逆天的节奏。嗯，懂了…</p>
-<h4 id="朝垂飞水-凶"><a href="#朝垂飞水-凶" class="headerlink" title="朝垂飞水 - 凶"></a>朝垂飞水 - 凶</h4><p><img src="/assets/blogImg/fengshui2.png" alt=""><br>“凡宅门前不要朝垂飞水，返背者是也，主出淫乱之妇”<br>书上说，宅求“背山依水”，但不能迎着瀑布。<br>也许是它过于卖弄风情，有一种动荡的势头。瀑布心里苦，但瀑布不说。</p>
-<h4 id="血盘照镜-凶"><a href="#血盘照镜-凶" class="headerlink" title="血盘照镜 - 凶"></a>血盘照镜 - 凶</h4><p><img src="/assets/blogImg/fengshui3.png" alt=""><br>“凡宅门前不许开新塘，主绝无子，谓之血盘照镜”<br>这个很好理解，宅门大多是儿童游戏之处，要是发生意外事故，只能池塘来背锅。<br>“血盘照镜”，你能不佩服古人这瘆的慌的文字技巧？</p>
-<h4 id="白虎开口-凶"><a href="#白虎开口-凶" class="headerlink" title="白虎开口 - 凶"></a>白虎开口 - 凶</h4><p><img src="/assets/blogImg/fengshui4.png" alt=""><br>传说中最凶的地形煞。<br>翻译一下古书描述，应该是说白虎居右，阴气重，会造成宾欺主的形势。<br>就地形的直观感受，看起来相当压抑。<br>感觉晚上会有一万个苦力怕掉下来，任何一个脑子正常的飞翔使都不可能在那安家。</p>
-<h4 id="东下西高-吉"><a href="#东下西高-吉" class="headerlink" title="东下西高 - 吉"></a>东下西高 - 吉</h4><p><img src="/assets/blogImg/fengshui5.png" alt=""><br>“凡宅东下西高，富贵英豪”<br>宅基的西边要比东边高，无外乎是增加庭院的采光量，好理解。</p>
-<h4 id="青龙白虎-吉"><a href="#青龙白虎-吉" class="headerlink" title="青龙白虎 - 吉"></a>青龙白虎 - 吉</h4><p><img src="/assets/blogImg/fengshui6.png" alt=""><br>“凡宅左有流水谓之青龙，右有长道谓之白虎”<br>书上说这种地形为最贵，想想也是，饮用、洗涤、出行这几大问题都解决了。<br>要是房地产定能卖个好价钱。</p>
-<p>话说如果标题是《我的世界小屋建造指南》，点开来是这个文章会不会被人打呢？</p>
-<p>—— litten 16.02.13 </p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;春节回家，看着书架藏书甚多，选几本晚时翻翻。&lt;br&gt;《协纪辨方书》有趣，但讲的主要是风水。有朋友说别闹，你个从事IT的人，看什么风水？互联网思维看风水？！&lt;br&gt;其实只是图个有意思。&lt;/p&gt;
-&lt;p&gt;有时我想起爷爷，一位老中医。房间里摆了十本书，三本中医著作，七本风水宝典。我都有认真数过。&lt;br&gt;问他，病人会不会觉得你的药方子是靠“算”出来的？&lt;br&gt;他说，那十本书，都是一个意思！&lt;br&gt;当时还是个孩子的我，只能做出我还只是个孩子的表情。&lt;br&gt;不过，这致使看着《走近科学》长大的我，并不对风水排斥。&lt;/p&gt;
-&lt;p&gt;后来，有次我想按着“梅花易数”去用程序实现。&lt;br&gt;逻辑部分毫无问题，但起卦部分太过随意了，又不是程序能控制的。&lt;br&gt;也许是我道行尚浅，至今尚未摸清起卦与取卦的时机。但也深深怀疑书本上的描述，以及实际操作的可能。&lt;/p&gt;
-&lt;p&gt;比方说…&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="旧事" scheme="//litten.me/tags/%E6%97%A7%E4%BA%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>失眠故事四【扎龙人】</title>
-    <link href="//litten.me/2016/02/09/my-fairy-tale3/"/>
-    <id>//litten.me/2016/02/09/my-fairy-tale3/</id>
-    <published>2016-02-08T19:55:00.000Z</published>
-    <updated>2017-01-14T06:35:57.602Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/assets/blogImg/dragon.jpg" alt=""></p>
-<h6 id="Picture-by-Peter-Nagy"><a href="#Picture-by-Peter-Nagy" class="headerlink" title="Picture by Peter Nagy"></a>Picture by <a href="https://dribbble.com/shots/1114225-My-Dragon" target="_blank" rel="external">Peter Nagy</a></h6><p><em>题记：失眠与回忆齐飞，脑洞共长天一色，既然睡不着，就写故事吧。<br><a href="/2014/08/22/two-magics-of-the-pilot/">【故事三】</a><a href="/2013/09/10/my-fairy-tale2/">【故事二】</a><a href="/2013/04/30/my-fairy-tale1/">【故事一】</a></em></p>
-<h3 id="扎龙人"><a href="#扎龙人" class="headerlink" title="扎龙人"></a>扎龙人</h3><p>年初一的这天早上，一条尾巴，从自家被窝里窜了出来…</p>
-<p>他本以为是梦，然而事实就是如此：他自己，变成了一条龙，正窝旋床上。坚硬的鳞片摩擦着柔软的羽绒，舒服的质感让人沉醉，也让龙沉醉。不过现在并不是享受的时候。</p>
-<a id="more"></a>
-<p>他开始回忆。<br>他是小镇的手艺人，每年春节，他扎的龙都深受大家喜爱。竹篾扎成的龙，无人自舞，无风自动，它们穿街走巷，上天入地。龙能像小狗一样，恶作剧的叼过姑娘的裙摆；也会虎视眈眈的望着一碗扣肉直流口水。外人惊以为施以了魔法，老人们笑道，这是祖上单传的机关秘术。</p>
-<p>匠心源于天赋与耐心，扎龙人独居竹林，钻研技艺。<br>他曾听小镇铁匠说过，技术即艺术，炉火纯青时，铁匠们将人剑合一！当时，他觉得这说法特别的中二。<br>不过离群索居的他并不知道中二的意思，只能理解为一种中国特色的二。</p>
-<p>然而，年初一，他，变成了一条龙。是不是梦？反正他已经捏过龙下巴了，疼。</p>
-<p>扎龙人想起了父亲，他在三十多年前的春节，在一场大火中不辞而去。<br>释然的光芒从眼中闪过，他仿佛解开了一个谜团：是不是那时候，父亲也变成了一条龙，为了不惊吓到村民，只能选择离开？<br>父亲曾说，竹性乃水性，上善如水，变幻万千，竹子有了灵魂，就看不出是竹子。他的小手曾触碰过父亲扎的龙，扑通扑通，那是龙的心跳。扎龙人认为，这是大成。</p>
-<p>不过，对于眼前该如何起床这件事，他自己倒有了一个精明的计策：用竹篾扎成自己，自己则扮演竹龙！</p>
-<p>计划天衣无缝。门窗一开，鞭炮齐响，飞龙跟往常一样从窗户穿出，人们拍手称快，称赞着这神乎其神的手艺。竹制的扎龙人则在窗前保持着微笑，偶尔挥挥手，接受大家的祝福。真正的扎龙人翔于长空，他第一次俯瞰着这个他深爱，却又孤独的城镇。</p>
-<p>他玩了一整天，每到之处，节日的气氛沸腾到极点。<br>他觉得不怎么孤独，节日不再是一个人的狂欢。<br>他真的去咬了两大块扣肉，逗得孩子们哈哈大笑。<br>他心思一转，决定去叼姑娘的裙摆。要选镇里最年轻最漂亮的姑娘，世界上没有人会去指责一条竹龙是臭流氓。</p>
-<p>他看准了她，弓身，俯冲，大风将眼睛吹得雪亮。<br>一地狂风带起了裙摆，丝绸拂面轻柔似云，时间，在刹那定格 … 他却轻轻地松开了口。一丝阴云遮住了天光，他的眼中藏匿了一片晦暗深海。<br>他看到了姑娘，那双修长的竹制双腿！<br>假腿像两根竹刺，从它眼中刺入，仿佛挑走了灵魂。</p>
-<p>风云瞬息万变，爱与谎言，往往只差一线。<br>也许是突然明白了这场家族童话，飞龙怒火中烧，火焰吞吐而出，一如多年前的那场莫名大火。村民们四处奔逃，衣服渐渐脱落，露出了竹制的躯干。<br>啪啪作响的身体，映得节日的城镇更加辉煌，飞龙却从此没了踪影。</p>
-<p>—— litten 16.02.09 初二</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/assets/blogImg/dragon.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h6 id=&quot;Picture-by-Peter-Nagy&quot;&gt;&lt;a href=&quot;#Picture-by-Peter-Nagy&quot; class=&quot;headerlink&quot; title=&quot;Picture by Peter Nagy&quot;&gt;&lt;/a&gt;Picture by &lt;a href=&quot;https://dribbble.com/shots/1114225-My-Dragon&quot;&gt;Peter Nagy&lt;/a&gt;&lt;/h6&gt;&lt;p&gt;&lt;em&gt;题记：失眠与回忆齐飞，脑洞共长天一色，既然睡不着，就写故事吧。&lt;br&gt;&lt;a href=&quot;/2014/08/22/two-magics-of-the-pilot/&quot;&gt;【故事三】&lt;/a&gt;&lt;a href=&quot;/2013/09/10/my-fairy-tale2/&quot;&gt;【故事二】&lt;/a&gt;&lt;a href=&quot;/2013/04/30/my-fairy-tale1/&quot;&gt;【故事一】&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;h3 id=&quot;扎龙人&quot;&gt;&lt;a href=&quot;#扎龙人&quot; class=&quot;headerlink&quot; title=&quot;扎龙人&quot;&gt;&lt;/a&gt;扎龙人&lt;/h3&gt;&lt;p&gt;年初一的这天早上，一条尾巴，从自家被窝里窜了出来…&lt;/p&gt;
-&lt;p&gt;他本以为是梦，然而事实就是如此：他自己，变成了一条龙，正窝旋床上。坚硬的鳞片摩擦着柔软的羽绒，舒服的质感让人沉醉，也让龙沉醉。不过现在并不是享受的时候。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="旧事" scheme="//litten.me/tags/%E6%97%A7%E4%BA%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>从《岛上书店》说开去</title>
-    <link href="//litten.me/2016/01/04/the-storied-life-of-aj/"/>
-    <id>//litten.me/2016/01/04/the-storied-life-of-aj/</id>
-    <published>2016-01-04T13:30:00.000Z</published>
-    <updated>2017-01-14T06:35:57.656Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/assets/blogImg/aj.jpg" alt=""></p>
-<h6 id="Picture-by-Anna-Paschenko-for-Doubble"><a href="#Picture-by-Anna-Paschenko-for-Doubble" class="headerlink" title="Picture by Anna Paschenko for Doubble"></a>Picture by <a href="https://dribbble.com/shots/1188443-Sea" target="_blank" rel="external">Anna Paschenko</a> for Doubble</h6><p>“无人为孤岛，一书一世界”。<br>小岛书店的褪色招牌上，写着这么一句话。<br>显然，从一开始，这就是一句假话。</p>
-<p><strong>孤独难以描述，偏偏人们喜欢写</strong>。<br>马尔克斯的荒诞深邃，东野圭吾把绝望写进了骨髓里，阿多尼斯却说那是他的一座花园。而在《岛上书店》里，孤独是温暖的。这就很少见。</p>
-<p>看完书时正巧在飞机上，底下应该是海，云层漫漫令人遐想。书中艾莉丝岛的模样依然模糊，倒是人物分明。那间“十五个玛雅宽，二十个玛雅长”的书店越发清晰。它经行光影，穿越时间，仿佛就在眼前。流水般的笔调，不做作的幽默，我猜玛雅会喜欢它的。<br>总的来说，叙事方式不是我喜欢的那种，但就如刚才所说，它比较特殊。令我总是想起一些，以前的事情…</p>
-<p>可是，<strong>孤独难以去写，偏偏人们总遇到</strong>。</p>
-<a id="more"></a>
-<p>那时，A.J.与志趣相投的妻子妮可，放弃了文学博士学位，跑来孤远的艾莉丝岛，开一间书店。仅仅因为“一个地方如果没有一家书店，就算不上一个地方了”。</p>
-<p>然而，生活让A.J.太过失望。<br>挚爱的妮可去世，志趣相投的图书销售员哈维也长辞，镇店之宝《帖木儿》被盗。一件件烦心事让A.J.越发孤僻冷漠，不近人情，排斥一切。内心，渐如书店所在的孤岛。</p>
-<p>“没有人喜欢孤独，只是不喜欢失望。”村上春树说。</p>
-<p>命运像小偷，失望的A.J.却没想过，这个小偷竟会送给他什么。<br>玛雅，一个弃婴，出现在小岛书店中。</p>
-<p>犹豫不决中，还是选择收养玛雅的A.J.，不得不与身边的人进行交流。</p>
-<p>多年以后，A.J.想说“爱”却说不出来的时候，他才明白，“一书一世界”，靠书去排解孤独的说法，分明是句假话。<br>使他不再孤独的，永远是身边的人。</p>
-<p><strong>又由结局后的艾米想到了三毛，特别在今天</strong>。<br>二十五年前的今天，三毛与她的自由，永远的私奔而去。</p>
-<p>得知三毛生平后，再看《撒哈拉的故事》其实是另一番天地，你看到她的车子在沙漠狂奔时，总想帮她踩一脚刹车，因为昨日的欢歌和明日的悲伤总成正比。看《万水千山走遍》时依然心惊，你希望她能流露些悲伤的情绪，合适就好，然而她身影匆匆，仿佛面无表情，走马而过。<br>然后你只能听之任之，对这波澜壮阔的生命鞠一个躬。</p>
-<p>后来你寻到一个解释叫“万物皆空”。原来在时间的不同刻度，孤独都不相雷同，无论描述它的文字，是温暖的，还是刻薄的。它就在那儿，一动不动，仿佛又不在那儿。</p>
-<p>就像，A.J.只能把love，说成glove；<br>就像，玛雅只能在《海滩一日》里回忆着亲生母亲；<br>就像，艾米到最后都深藏着《迟暮花开》的真相；<br>就像，兰比亚斯与伊斯梅最后守护着的那家小岛书店。</p>
-<p>你说这是一本温暖的小说，但它的冷酷又摆在你触手可及的地方。<br>像一张薄薄的被子，你拥之入眠，而后又半夜冷醒。所谓冷暖自知，大抵如此。<br>那，既然不可能雨季不再来，能做的，只有毫无畏惧，热烈而宁静地走遍万水千山吧。</p>
-<p>“一书一世界，一岁一枯荣；无人为孤岛，春风吹又生”。<br>又或许，那句假话，从一开始，就是真的呢。</p>
-<p>——Litten 2016.1.4</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;img src=&quot;/assets/blogImg/aj.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;h6 id=&quot;Picture-by-Anna-Paschenko-for-Doubble&quot;&gt;&lt;a href=&quot;#Picture-by-Anna-Paschenko-for-Doubble&quot; class=&quot;headerlink&quot; title=&quot;Picture by Anna Paschenko for Doubble&quot;&gt;&lt;/a&gt;Picture by &lt;a href=&quot;https://dribbble.com/shots/1188443-Sea&quot;&gt;Anna Paschenko&lt;/a&gt; for Doubble&lt;/h6&gt;&lt;p&gt;“无人为孤岛，一书一世界”。&lt;br&gt;小岛书店的褪色招牌上，写着这么一句话。&lt;br&gt;显然，从一开始，这就是一句假话。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;孤独难以描述，偏偏人们喜欢写&lt;/strong&gt;。&lt;br&gt;马尔克斯的荒诞深邃，东野圭吾把绝望写进了骨髓里，阿多尼斯却说那是他的一座花园。而在《岛上书店》里，孤独是温暖的。这就很少见。&lt;/p&gt;
-&lt;p&gt;看完书时正巧在飞机上，底下应该是海，云层漫漫令人遐想。书中艾莉丝岛的模样依然模糊，倒是人物分明。那间“十五个玛雅宽，二十个玛雅长”的书店越发清晰。它经行光影，穿越时间，仿佛就在眼前。流水般的笔调，不做作的幽默，我猜玛雅会喜欢它的。&lt;br&gt;总的来说，叙事方式不是我喜欢的那种，但就如刚才所说，它比较特殊。令我总是想起一些，以前的事情…&lt;/p&gt;
-&lt;p&gt;可是，&lt;strong&gt;孤独难以去写，偏偏人们总遇到&lt;/strong&gt;。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="旧事" scheme="//litten.me/tags/%E6%97%A7%E4%BA%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Nginx能为前端开发带来什么？</title>
-    <link href="//litten.me/2015/11/03/nginx-in-fe/"/>
-    <id>//litten.me/2015/11/03/nginx-in-fe/</id>
-    <published>2015-11-03T13:30:00.000Z</published>
-    <updated>2017-01-14T06:35:57.621Z</updated>
-    
-    <content type="html"><![CDATA[<p>Nginx那么好，我想去看看。<br>接连逛了两个书城后，我发现并没有Nginx相关的书籍。<br>这就很奇怪！</p>
-<p><img src="/assets/blogImg/nginx0.jpg" alt=""></p>
-<p>Nginx，一名<strong>网红</strong>（网络服务器红人…），就算没有自传和回忆录，争着介绍它的花边新闻也该有吧。</p>
-<p>后来找到仅有的一两本书籍，也直接深入到“源码剖析”的阶段。写得并不十分满意，况且我还不需要这些。<br>后来发现了原因，大概是因为<strong>“使用太简单了，都不值得出书”</strong>。<br>是的，Nginx把纷繁复杂的功能，浓缩成一份简单的配置，极易上手。<br>当它呈现到你面前时，感觉独具匠心。</p>
-<a id="more"></a>
-<h3 id="Nginx与NodeJs"><a href="#Nginx与NodeJs" class="headerlink" title="Nginx与NodeJs"></a>Nginx与NodeJs</h3><p>（这里的标题有点歧义。此处的NodeJs，皆引申为NodeJs所搭建的服务器。）</p>
-<p>有人说，作为一名前端，<strong>我的真爱是NodeJs</strong>。<br>同时也认同，抛去性能之类的比较，单纯从实现的角度，NodeJs编写的服务器也能实现Nginx的各种功能。                </p>
-<p>这些我都赞成，但使用Nginx并不意味着抛弃NodeJs。事实上，它们并不冲突，还可以在一起愉快的玩耍。              </p>
-<p>在业内，这样的模型已很常见：资源转发，反向代理，静态资源处理，负载均衡，这些事情扔给Nginx来处理，只是几行配置的事情；同时在上游，让NodeJs去处理它最擅长的I/O等事情。               </p>
-<p>合理分配各自<strong>擅长</strong>的事情，这样的思路，同样可以运用于前端开发中。                </p>
-<p>以前用NodeJs几百行实现的服务器功能，在npm与github的海洋里花尽心思去寻找的模块，也许在Nginx里是一条成熟的配置。它能帮其分担很多事情，节约了成本。                  </p>
-<h3 id="场景一：环境切换"><a href="#场景一：环境切换" class="headerlink" title="场景一：环境切换"></a>场景一：环境切换</h3><p>前端开发中，经常面临多个部署环境切换的问题。<br>我们通常用配hosts的方式去实现。更优化些，我们将机器的服务绑定了不同的域名：比如正式环境是a.qq.com，测试环境是test.a.qq.com。 </p>
-<p>然而在拓展性和易用性方面，还不足够好。<br>而Nginx作为反向代理，就很容易处理资源转发的问题。                 </p>
-<p>思路很简单：</p>
-<blockquote>
+    <title>作为一个前端，可以如何机智地弄坏一台电脑？</title>
+    <link href="//litten.me/2015/07/06/hack-in-localstorage/"/>
+    <id>//litten.me/2015/07/06/hack-in-localstorage/</id>
+    <published>2015-07-06T14:30:00.000Z</published>
+    <updated>2017-01-14T06:35:57.503Z</updated>
+    
+    <content type="html"><![CDATA[<p>有人说，前端的界限就在浏览器那儿。</p>
+<p>无论你触发了多少bug，最多导致浏览器崩溃，对系统影响不到哪去。<br>这就像二次元各种炫酷的毁灭世界，都不会导致三次元的世界末日。<br>然而，作为一个前端，我发现是有方式打开次元大门的…</p>
+<p>这个实验脑洞较大，动机无聊，但某种意义上反映了一些<strong>安全问题</strong>。<br>想象一下，有天你在家里上网，吃着火锅还唱着歌，<strong>点开一个链接，电脑突然就蓝屏了</strong>！想想还真有点小激动。<br><a id="more"></a></p>
+<h3 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h3><p>故事得从localStorage说起。</p>
+<p>html5的本地存储，相信大家都不陌生。将数据以二进制文件形式存储到本地，在当前应用得非常广泛。<br>windows下的chrome，localStorage存储于<code>C:\Users\xxx\AppData\Local\Google\Chrome\User Data\Default\Local Storage</code>文件夹中。但如果任由网页无限写文件，对用户硬盘的伤害可想而知，因而浏览器对其做了大小限制。</p>
+<p>对于一个域名+端口，PC侧的上限是5M-10M之间，移动侧是则不大于2.5M。</p>
+<p>那么问题就变成：<strong>这样的限制足够保护用户硬盘了吗</strong>？</p>
+<h3 id="关键"><a href="#关键" class="headerlink" title="关键"></a>关键</h3><p>关键的问题在于，这一限制，针对的是一个<code>域名+端口</code>。<br>也就是说，你访问<code>同一个域名的不同端口</code>，它们的localStorage并无关联，是分开存储的。</p>
+<p>我用node简单地开启了服务器，这时，用户访问<code>http://127.0.0.1:1000</code>到<code>http://127.0.0.1:1099</code>这100个端口，会请求到同一个页面：<code>index.html</code>：</p>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> http = <span class="built_in">require</span>(<span class="string">'http'</span>);</div><div class="line"><span class="keyword">var</span> fs = <span class="built_in">require</span>(<span class="string">'fs'</span>);</div><div class="line"></div><div class="line"><span class="comment">//100个端口</span></div><div class="line"><span class="keyword">for</span>(<span class="keyword">var</span> port = <span class="number">1000</span>; port&lt; <span class="number">1100</span>; port++)&#123;</div><div class="line">  http.createServer(<span class="function"><span class="keyword">function</span> (<span class="params">request, response</span>) </span>&#123;</div><div class="line">    <span class="comment">//请忽略这种循环读文件的方式，只为了简便</span></div><div class="line">    fs.readFile(<span class="string">'./index.html'</span>, <span class="function"><span class="keyword">function</span>(<span class="params">err, content</span>)</span>&#123;</div><div class="line">      <span class="keyword">if</span>(err) &#123;</div><div class="line">      &#125; <span class="keyword">else</span> &#123;</div><div class="line">        response.writeHead(<span class="number">200</span>, &#123; <span class="string">'Content-Type'</span> : <span class="string">'text/html; charset=UTF-8'</span> &#125;);</div><div class="line">        response.write(content);</div><div class="line">        response.end();</div><div class="line">      &#125;</div><div class="line">    &#125;);</div><div class="line">  &#125;).listen(port, <span class="string">'127.0.0.1'</span>);</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<p>当然，这个index.html里涉及了localStorage写操作。</p>
+<figure class="highlight lsl"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">var s = <span class="string">""</span>;</div><div class="line"><span class="comment">//慢慢来，别写太大了，好害怕…</span></div><div class="line">for(var i=<span class="number">0</span>; i&lt; <span class="number">3</span> * <span class="number">1024</span> * <span class="number">1024</span>; i++)&#123;</div><div class="line">  s += <span class="string">"0"</span>;</div><div class="line">&#125;</div><div class="line">localStorage.setItem(<span class="string">"testData"</span>, s);</div></pre></td></tr></table></figure>
+<p>我试着用浏览器分别访问了几个端口，结果是分开存储。一切跟剧本一样。</p>
+<h3 id="自动遍历"><a href="#自动遍历" class="headerlink" title="自动遍历"></a>自动遍历</h3><p>但这种程度还不够。<br>如果要实验变得更好（xie）玩（e）一些，问题就变成如何<code>让用户自动遍历这些端口</code>？</p>
+<p>iframe是个好的尝试。<br>只要一打开<code>http://127.0.0.1: 1000</code>，页面的脚步就会创建一个iframe，去请求<code>http://127.0.0.1: 1001</code>，一直循环下去。</p>
+<figure class="highlight qml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">var</span> Main = (<span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;</div><div class="line">  <span class="built_in">var</span> _key = <span class="string">"testData"</span>;</div><div class="line">  <span class="built_in">var</span> _max = <span class="number">1100</span>; <span class="comment">//最大限制</span></div><div class="line">  <span class="keyword">return</span> &#123;</div><div class="line">    <span class="attribute">init</span>: <span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;</div><div class="line">      <span class="comment">//慢慢来，别写太大了，好害怕…</span></div><div class="line">      <span class="built_in">var</span> s = <span class="string">""</span>;</div><div class="line">      <span class="keyword">for</span>(<span class="built_in">var</span> i=<span class="number">0</span>; i&lt; <span class="number">3</span> * <span class="number">1024</span> * <span class="number">1024</span>; i++)&#123;</div><div class="line">        s += <span class="string">"0"</span>;</div><div class="line">      &#125;</div><div class="line">      localStorage.setItem(_key, s);</div><div class="line"></div><div class="line">      <span class="built_in">var</span> port = <span class="built_in">parseInt</span>(location.port)+<span class="number">1</span>;</div><div class="line">      <span class="keyword">if</span>(port &gt; _max) <span class="keyword">return</span>;</div><div class="line"></div><div class="line">      <span class="comment">//新添加iframe</span></div><div class="line">      <span class="built_in">var</span> <span class="built_in">url</span> = <span class="string">"http://127.0.0.1:"</span> + port;</div><div class="line">      <span class="built_in">var</span> $iframe = <span class="built_in">document</span>.createElement(<span class="string">"iframe"</span>);</div><div class="line">      $iframe.src = <span class="built_in">url</span>;</div><div class="line">      <span class="built_in">document</span>.getElementsByTagName(<span class="string">"body"</span>)[<span class="number">0</span>].appendChild($iframe);</div><div class="line">    &#125;</div><div class="line">  &#125;</div><div class="line">&#125;)();</div></pre></td></tr></table></figure>
+<p>当然iframe我们还可以设置为不可见，以掩盖这种不厚道的行为…<br>比方说，有人发给你一个链接，你打开后发现是个视频，而你根本注意不到背后的脚本，在视频播放的几分钟里，快要把你的C盘写满。</p>
+<p>然后我就看到请求如潮水渐涨：<br><img src="/assets/blogImg/localstorage1.png" alt=""></p>
+<p>但是，请求到1081端口，最新的chrome就崩溃掉了…原来iframe嵌套太多，已经到达了浏览器的极限。</p>
+<p>###防止浏览器崩溃</p>
+<p>C盘还未撑满，同志还需努力。怎么办？</p>
+<p>突然想到，到达iframe极限之前，我们可以重定向啊。<br>每访问50个端口，就使用<code>window.location.href</code>重定向一次，去确保浏览器不崩溃。</p>
+<figure class="highlight qml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div></pre></td><td class="code"><pre><div class="line"><span class="built_in">var</span> Main = (<span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;</div><div class="line">  <span class="built_in">var</span> _key = <span class="string">"testData"</span>;</div><div class="line">  <span class="built_in">var</span> _max = <span class="number">1200</span>; <span class="comment">//最大限制</span></div><div class="line">  <span class="built_in">var</span> _jumpSpace = <span class="number">50</span>; <span class="comment">//为避免iframe过多导致浏览器crash，每50个执行跳转</span></div><div class="line"></div><div class="line">  <span class="keyword">return</span> &#123;</div><div class="line">    <span class="attribute">init</span>: <span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;</div><div class="line">      <span class="comment">//慢慢来，别写太大了，好害怕…</span></div><div class="line">      <span class="built_in">var</span> s = <span class="string">""</span>;</div><div class="line">      <span class="keyword">for</span>(<span class="built_in">var</span> i=<span class="number">0</span>; i&lt; <span class="number">3</span> * <span class="number">1024</span> * <span class="number">1024</span>; i++)&#123;</div><div class="line">        s += <span class="string">"0"</span>;</div><div class="line">      &#125;</div><div class="line">      localStorage.setItem(_key, s);</div><div class="line"></div><div class="line">      <span class="built_in">var</span> port = <span class="built_in">parseInt</span>(location.port)+<span class="number">1</span>;</div><div class="line">      <span class="keyword">if</span>(port &gt; _max) <span class="keyword">return</span>;</div><div class="line"></div><div class="line">      <span class="keyword">if</span>(port % _jumpSpace == <span class="number">0</span>)&#123;</div><div class="line">        <span class="comment">//每50个，重定向一次</span></div><div class="line">        <span class="built_in">window</span>.location.href = <span class="built_in">url</span>;</div><div class="line">      &#125;<span class="title">else</span>&#123;</div><div class="line">        <span class="comment">//新添加iframe</span></div><div class="line">        <span class="built_in">var</span> $iframe = <span class="built_in">document</span>.createElement(<span class="string">"iframe"</span>);</div><div class="line">        $iframe.src = <span class="built_in">url</span>;</div><div class="line">        <span class="built_in">document</span>.getElementsByTagName(<span class="string">"body"</span>)[<span class="number">0</span>].appendChild($iframe);</div><div class="line">      &#125;</div><div class="line">    &#125;</div><div class="line">  &#125;</div><div class="line">&#125;)();</div></pre></td></tr></table></figure>
+<p>事实证明，这种蛮拼的方法的确可行。</p>
+<p>至此，只要访问<code>http://127.0.0.1: 1000</code>，就会往Local Storage文件夹里写入近500M无用数据：<br><img src="/assets/blogImg/localstorage3.png" alt=""></p>
+<p>里面的数据是这样的：<br><img src="/assets/blogImg/localstorage2.png" alt=""></p>
+<h3 id="继续实验的黑科技"><a href="#继续实验的黑科技" class="headerlink" title="继续实验的黑科技"></a>继续实验的黑科技</h3><p>算了下我的C盘还有空间嘛，那就把端口数量从100增长到200个。<br>结果是这样的，到达了1.17G大小。<br><img src="/assets/blogImg/localstorage4.png" alt=""></p>
+<p>在后续的实验中，我就慢慢的把端口数量与存储的数据调大。</p>
+<p>电脑也运行得越来越慢。这是为什么呢？</p>
+<p>我观察到，有时候执行<code>localStorage.setItem()</code>后，在文件夹里不一定立即能看到数据文件。<br>怀疑这些数据会被chrome先放到内存里，以避免重复读写带来的消耗，在空闲或关闭的时机，再写进硬盘里。</p>
+<p>但此时，浏览器已经影响到系统了。它处于一种“不会崩溃”，但“因为占用了许多内存，已经妨碍用户电脑的正常使用”的状态。<br>即使用户关闭了浏览器窗口，也不会很快恢复。要知道读写任务并不是随窗口关闭而终止的，否则浏览器会丢失数据。</p>
+<p>遭遇黑科技的人们能做的只有：</p>
 <ol>
-<li>读取请求里的cookie，如果键名host_id有值，则代理到这个IP地址；</li>
-<li>如果没有，则代理到默认的正式环境（此处举例为1.1.1.1）;</li>
+<li>等待；</li>
+<li>用任务管理器关掉chrome进程，再等待；</li>
+<li>相信并尝试“重启电脑解决90%电脑问题”的科学论断</li>
 </ol>
-</blockquote>
-<figure class="highlight gams"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">set</span> $env_id <span class="comment">"1.1.1.1"</span>;</div><div class="line"><span class="keyword">if</span> ( <span class="symbol">$</span>http_cookie ~* <span class="string">"host_id=(\S+)(;.*|$)"</span>) &#123;</div><div class="line">    <span class="keyword">set</span> $env_id <span class="comment">$1</span>;</div><div class="line">&#125;</div><div class="line"></div><div class="line">location / &#123;</div><div class="line">    proxy_set_header Host <span class="symbol">$</span>host;</div><div class="line">    proxy_pass   http:<span class="comment">//$env_id:80;</span></div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<p>那接下来的事情，就是<strong>怎样用最简便的方式，把IP种在cookie里？</strong><br>我们应用了nginx-http-footer-filter模块，html文件经过代理时，都注入了一小段js代码。</p>
-<p>这段代码，会帮我们展示小菜单，点击某个环境时，则将IP种到cookie里，同时刷新页面，让Nginx完成环境切换。<br><img src="/assets/blogImg/nginx1.jpg" alt=""></p>
-<p>切换环境，如今只需点击一次。</p>
-<h3 id="场景二：SourceMap"><a href="#场景二：SourceMap" class="headerlink" title="场景二：SourceMap"></a>场景二：SourceMap</h3><p>在线上环境调试Js代码是件麻烦的事情，因为目前合格的前端部署，代码都应经过压缩。性能问题是优化了，debug可不怎么方便。</p>
-<p>而SourceMap正好可以解决此问题。</p>
-<p>在最新的各版本浏览器里，如果满足：</p>
-<ol>
-<li>压缩后的js文件后面有<code>//# sourceMappingURL=xxx.map</code>格式的注释</li>
-<li>浏览器能正常访问到sourceMappingURL</li>
-</ol>
-<p>那么，就能把压缩过的代码还原。<br>要实现这样的功能，就必须：</p>
-<ol>
-<li>现网环境不带以上形式的注释，同时访问不到sourceMap（安全性考虑）</li>
-<li>测试环境带注释，能访问sourceMap</li>
-</ol>
-<p>这样的模型，用<code>反向代理+内容纂改</code>的思路再合适不过。<br>每次构建编译时，我们会把sourceMap文件存放到一台机器（举例为1.1.1.1），命名为js文件名后加<code>.map</code>后缀。随后，使用Nginx，通过这几行配置就能把此功能实现：</p>
-<figure class="highlight nginx"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"><span class="attribute">location</span> <span class="regexp">~ \.js$</span> &#123;</div><div class="line">    <span class="attribute">footer</span> <span class="string">"\n//# sourceMappingURL=<span class="variable">$request_uri</span>.map"</span>;</div><div class="line">    <span class="attribute">footer_types</span> <span class="string">"*"</span>;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<p>只要经过代理，在chrome里，我们能看到每份被压缩过的js文件，都有一个对应的源码文件。<br>你可以直接使用它来做打断点之类的操作，大大的提升了调试质量。<br><img src="/assets/blogImg/nginx2.jpg" alt=""></p>
-<h3 id="场景三：内容纂改"><a href="#场景三：内容纂改" class="headerlink" title="场景三：内容纂改"></a>场景三：内容纂改</h3><p>其实在以上两个场景里，都涉及了“内容纂改”。<br>无论是说“纂改”还是“劫持”，大家的印象都不是什么好事情，但另一方面，他们又可以让事情有趣起来。</p>
-<p>统一介绍下，Nginx涉及纂改的模块有：</p>
-<ul>
-<li><a href="https://m.oschina.net/blog/156826" target="_blank" rel="external">nginx_http_footer_filter</a>：往文件的底部添加文字，可包含Nginx的内置变量；</li>
-<li><a href="http://nginx.org/en/docs/http/ngx_http_addition_module.html" target="_blank" rel="external">nginx_http_addition_module</a>：从一个url去读取内容，将之添加到文件的头部或顶部；</li>
-<li><a href="http://nginx.org/en/docs/http/ngx_http_sub_module.html" target="_blank" rel="external">nginx_http_sub_module</a>：替换字符</li>
-</ul>
-<p>除去上面两种场景，合理运用这些模块对应的配置，可以做出许多小工具，这是很有想象力的事情。<br>单单针对移动web前端开发，就可以实现： </p>
-<blockquote>
-<ol>
-<li>将<a href="http://people.apache.org/~pmuellr/weinre-docs/latest/" target="_blank" rel="external">weinre</a>脚本插入到html里，让移动web调试更加便捷。</li>
-<li>移动web经常用到localStorage优化首屏，但debug时又会受到干扰，通过一个按钮很方便的清除本地缓存。</li>
-<li>手机APP内嵌页面，很难将其网址分享给另一个人。通过一个按钮就能生成url对应的二维码等</li>
-</ol>
-</blockquote>
-<h3 id="场景四：本地映射"><a href="#场景四：本地映射" class="headerlink" title="场景四：本地映射"></a>场景四：本地映射</h3><p>在Windows下的前端抓包调试，Fiddler+Willow的能力毋庸置疑。<br>而脱离了.NET体系的Linux和Mac，即使有一些代替工具，但某些方面还是略显不足。   </p>
-<p>比如：<strong>线上接口映射到本地文件</strong>。<br>想到Fiddler的本质也是一个代理，而开启一个有这样能力的Nginx服务，并不是太难的事情。           </p>
-<p>而且，我们可以做得更灵活，比如：</p>
-<ul>
-<li>同时支持慢速调试</li>
-<li>同时支持目录层级映射</li>
-<li>同时支持正则匹配</li>
-<li>JSON返回的数据有可能是变化的（比如分页时候），同时支持动态数据</li>
-</ul>
-<p>这些场景，只运用到Nginx里的“<a href="http://www.linuxidc.com/Linux/2014-01/95493.htm" target="_blank" rel="external">rewrite规则</a>”。<br>从参考的文档可以大致看到，rewrite规则非常灵活，能完成各种场景的转发。 </p>
-<p>最简单的模型中，我们把所有带<code>cgi-bin</code>路径的请求，rewite到本地的一个服务，同时带上请求的所有参数，<br>仅需这三行配置即可：<br><figure class="highlight nginx"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="attribute">location</span> <span class="regexp">~ /cgi-bin/*</span> &#123;</div><div class="line">    <span class="attribute">rewrite</span><span class="regexp"> ^(.*)$</span> http://127.0.0.1:8080/cgi-bin/ <span class="literal">last</span>;</div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
-<p>后续的事情，可以在本地创建一个cgi-bin文件夹，在里面放置需要映射的文本，并开启服务到8080端口即可。 </p>
-<h3 id="场景五：移动侧调试"><a href="#场景五：移动侧调试" class="headerlink" title="场景五：移动侧调试"></a>场景五：移动侧调试</h3><p><code>Fiddler</code> 有一个勾选项 <code>Allow remote computers to connect</code>，并可以指定 <code>listen port</code> 可以使得手机/其它终端通过将本机设为代理而访问本机环境，与 <code>hosts</code> 配合会很实用。</p>
-<p>这个功能，用Nginx也很容易做到。<br>通过 <code>default_server</code> 作为代理，手机终端通过设置网络代理为本机IP和相应的 <code>listen port</code>，从而可以访问本机的 Web 服务。</p>
-<p>其中也是用到了<a href="http://nginx.org/en/docs/http/ngx_http_proxy_module.html" target="_blank" rel="external">ngx_http_proxy_module</a>模块的配置：<br><figure class="highlight nginx"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div></pre></td><td class="code"><pre><div class="line"> <span class="section">server</span> &#123;</div><div class="line">    <span class="attribute">listen</span>  <span class="number">80</span> default_server;</div><div class="line">    <span class="attribute">server_name</span>  localhost;</div><div class="line">    <span class="attribute">resolver</span> <span class="number">8.8.8.8</span>;</div><div class="line">    <span class="attribute">location</span> / &#123;</div><div class="line">        <span class="attribute">proxy_set_header</span> Host <span class="variable">$host</span>;</div><div class="line">        <span class="attribute">proxy_set_header</span> X-Real-Ip <span class="variable">$remote_addr</span>;</div><div class="line">        <span class="attribute">proxy_set_header</span> X-Forwarded-For <span class="variable">$remote_addr</span>;</div><div class="line">        <span class="attribute">proxy_pass</span> http://<span class="variable">$host</span>;</div><div class="line">    &#125;</div><div class="line">&#125;</div><div class="line"></div><div class="line"><span class="section">server</span> &#123;</div><div class="line">    <span class="attribute">listen</span>  <span class="number">80</span>;</div><div class="line">    <span class="attribute">server_name</span>  ke.qq.com;</div><div class="line">    <span class="attribute">location</span> / &#123;</div><div class="line">        <span class="attribute">proxy_set_header</span> Host <span class="variable">$host</span>;</div><div class="line">        <span class="attribute">proxy_set_header</span> X-Real-Ip <span class="variable">$remote_addr</span>;</div><div class="line">        <span class="attribute">proxy_set_header</span> X-Forwarded-For <span class="variable">$remote_addr</span>;</div><div class="line">        <span class="attribute">proxy_pass</span> http://127.0.0.1:9091/;</div><div class="line">    &#125;</div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
-<h3 id="边角料"><a href="#边角料" class="headerlink" title="边角料"></a>边角料</h3><p>除去特定场景，Nginx的一些配置也跟前端息息相关。以下简单罗列，作为边角材料。</p>
-<p>1.<a href="https://github.com/alibaba/nginx-http-concat" target="_blank" rel="external">nginx_http_concat</a><br>资源合并，处理CDN combo。例如通过这样的方式<code>http://example.com/??style1.css,style2.css,foo/style3.css</code>访问合并后的资源。</p>
-<p>2.<a href="http://nginx.org/en/docs/http/ngx_http_image_filter_module.html" target="_blank" rel="external">ngx_http_image_filter_module</a><br>图片处理。提供图片缩放，jpg压缩，旋转等特性。</p>
-<p>3.适配PC与移动web<br>总体可运用<a href="http://nginx.org/en/docs/http/ngx_http_proxy_module.html" target="_blank" rel="external">ngx_http_proxy_module</a>，去实现路径转发。判断平台类型的Nginx配置，在开源项目<a href="http://detectmobilebrowsers.com/" target="_blank" rel="external">detectmobilebrowsers</a>中可以找到。</p>
-<h3 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h3><p>学习Nginx，我本身只是出于开开眼界的目的。而的确发现了一些很有启发性的特质。<br>于前端开发，无论线上线下，熟练掌握基本配置，可以做出许多提高效率的工具。<br><strong>但既然是工具，熟手就好</strong>。 </p>
-<p>比如Fiddler直观，但Nginx更底层，更灵活，应当按照实际选择即可。</p>
-<p>话说回来，后来心情有些惆怅。<br>想起之前，我用NodeJs写过一个八百行的本地调试服务，如今更习惯用Nginx的几行配置。<br>不过我又想，<strong>既然我已经花了时间去写，为什么还要花时间去用？！</strong> </p>
-<p>心情又好起来了。（等等有什么不对，管它呢…）</p>
-<hr>
-<p>END.<br>15.11.03 Litten.</p>
+<p>可以说，浏览器的内心几乎是崩溃的。</p>
+<h3 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h3><p>最后，还是得用严肃脸告诫一下：害人之心不可无。<br>本实验，从一开始就是怀揣着将<code>安全问题上交给国家的初衷</code>去做的（是的就是这么纯粹）。</p>
+<p>后续，看着C盘还有2G空间，我又把端口增长到2000个，试下会发生什么。<br>由于请求过多，需要一定时间，我就去做别的事情了。<br>回来后发现房间安静祥和，美轮美奂，一片蓝光，像是加了特技。</p>
+<p><img src="/assets/blogImg/localstorage5.png" alt=""></p>
+<p>那么问题来了，计算机修理哪家强？<br>有点急…</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Nginx那么好，我想去看看。&lt;br&gt;接连逛了两个书城后，我发现并没有Nginx相关的书籍。&lt;br&gt;这就很奇怪！&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/blogImg/nginx0.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;Nginx，一名&lt;strong&gt;网红&lt;/strong&gt;（网络服务器红人…），就算没有自传和回忆录，争着介绍它的花边新闻也该有吧。&lt;/p&gt;
-&lt;p&gt;后来找到仅有的一两本书籍，也直接深入到“源码剖析”的阶段。写得并不十分满意，况且我还不需要这些。&lt;br&gt;后来发现了原因，大概是因为&lt;strong&gt;“使用太简单了，都不值得出书”&lt;/strong&gt;。&lt;br&gt;是的，Nginx把纷繁复杂的功能，浓缩成一份简单的配置，极易上手。&lt;br&gt;当它呈现到你面前时，感觉独具匠心。&lt;/p&gt;
+      &lt;p&gt;有人说，前端的界限就在浏览器那儿。&lt;/p&gt;
+&lt;p&gt;无论你触发了多少bug，最多导致浏览器崩溃，对系统影响不到哪去。&lt;br&gt;这就像二次元各种炫酷的毁灭世界，都不会导致三次元的世界末日。&lt;br&gt;然而，作为一个前端，我发现是有方式打开次元大门的…&lt;/p&gt;
+&lt;p&gt;这个实验脑洞较大，动机无聊，但某种意义上反映了一些&lt;strong&gt;安全问题&lt;/strong&gt;。&lt;br&gt;想象一下，有天你在家里上网，吃着火锅还唱着歌，&lt;strong&gt;点开一个链接，电脑突然就蓝屏了&lt;/strong&gt;！想想还真有点小激动。&lt;br&gt;
     
     </summary>
     
     
-      <category term="前端" scheme="//litten.me/tags/%E5%89%8D%E7%AB%AF/"/>
+      <category term="js" scheme="//litten.me/tags/js/"/>
+    
+      <category term="安全" scheme="//litten.me/tags/%E5%AE%89%E5%85%A8/"/>
+    
+      <category term="黑科技" scheme="//litten.me/tags/%E9%BB%91%E7%A7%91%E6%8A%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="//litten.me/2012/12/13/hello-world/"/>
+    <id>//litten.me/2012/12/13/hello-world/</id>
+    <published>2012-12-12T17:39:00.000Z</published>
+    <updated>2017-01-14T06:35:57.524Z</updated>
+    
+    <content type="html"><![CDATA[<p>在Winiex的推荐和帮助下，这个octopress博客终于搭建起来了。</p>
+<p>折腾了两天多，在github page上看到自己的博客加载下来时，突然有种错综复杂的恍惚感。是的，它不是qq空间，不是新浪博客，不是豆瓣小站，也不是贴吧。它更像是属于自己的一块小小的领地，因而我满足于这种归属感。我愿在上面安静劳作。</p>
+<p>一个农民，通过自身努力终于分到了一块地，不再需要在地主的土地上创造流量价值时，于是翻身作主的他可以宣告说：Hello World。当然这个农民确切来说是个码农。</p>
+<p>感谢Zespia提供的slash主题。我很喜欢这种色调。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在Winiex的推荐和帮助下，这个octopress博客终于搭建起来了。&lt;/p&gt;
+&lt;p&gt;折腾了两天多，在github page上看到自己的博客加载下来时，突然有种错综复杂的恍惚感。是的，它不是qq空间，不是新浪博客，不是豆瓣小站，也不是贴吧。它更像是属于自己的一块小小的领地
+    
+    </summary>
+    
+    
+      <category term="杂谈" scheme="//litten.me/tags/%E6%9D%82%E8%B0%88/"/>
+    
+      <category term="octopress" scheme="//litten.me/tags/octopress/"/>
     
   </entry>
   
