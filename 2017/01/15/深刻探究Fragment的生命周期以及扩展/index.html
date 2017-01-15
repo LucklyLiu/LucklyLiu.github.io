@@ -8,16 +8,18 @@
   <link rel="dns-prefetch" href="//litten.me">
   <title>深刻探究Fragment的生命周期以及扩展 | Luck_Liu</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="�����Լ��Ŀռ䡣">
+  <meta name="description" content="引言剖析Fragment的声明周期Fragmenty与Activity之间生命周期的关系">
 <meta property="og:type" content="article">
 <meta property="og:title" content="深刻探究Fragment的生命周期以及扩展">
 <meta property="og:url" content="//litten.me/2017/01/15/深刻探究Fragment的生命周期以及扩展/index.html">
 <meta property="og:site_name" content="Luck_Liu">
-<meta property="og:description" content="�����Լ��Ŀռ䡣">
-<meta property="og:updated_time" content="2017-01-15T07:21:50.635Z">
+<meta property="og:description" content="引言剖析Fragment的声明周期Fragmenty与Activity之间生命周期的关系">
+<meta property="og:image" content="//litten.me/assets/blogImg/Framentlife.png">
+<meta property="og:updated_time" content="2017-01-15T08:58:19.414Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="深刻探究Fragment的生命周期以及扩展">
-<meta name="twitter:description" content="�����Լ��Ŀռ䡣">
+<meta name="twitter:description" content="引言剖析Fragment的声明周期Fragmenty与Activity之间生命周期的关系">
+<meta name="twitter:image" content="//litten.me/assets/blogImg/Framentlife.png">
   
     <link rel="alternative" href="/atom.xml" title="Luck_Liu" type="application/atom+xml">
   
@@ -167,7 +169,32 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        
+        <blockquote>
+<p>引言<br>剖析Fragment的声明周期<br>Fragmenty与Activity之间生命周期的关系</p>
+</blockquote>
+<a id="more"></a>
+<p>##<strong>引言</strong><br>在Android3.0开始，Android引入了Fragment。当初最主要的目的是为了给大屏幕手持设备提供更加灵活和动态的UI设计。随着应用功能越来越多，界面越来越复杂，我们会利用Fragment对Activity的界面进行模块化编程。比如一个Activity界面内有多个请求，每个请求得到的结果展示不同的UI片段，那么我们就可以将Activity利用Fragment来完成UI模块化。目前在我目前的项目中，Fragment的地位已经举足轻重了。当然我写篇文章，并不是简单的介绍Fragment的用法，而是结合我在项目中使用Fragment所遇到的问题进行说明。</p>
+<p>##<strong>生命周期</strong><br><img src="/assets/blogImg/Framentlife.png" alt="Frament生命周期"></p>
+<ol>
+<li>onAttach(Activity) 调用一次的片段与其活性相关。</li>
+<li>onCreate(Bundle) 所谓做片段的初始创建。</li>
+<li>onCreateView(LayoutInflater, ViewGroup, Bundle) 创建并返回与片段相关联的视图层次。</li>
+<li>onActivityCreated(Bundle)告诉它的活动已完成其自己的片段Activity.onCreate()。</li>
+<li>onViewStateRestored(Bundle) 告诉所有的视图层次的保存状态已经恢复的片段。</li>
+<li>onStart() 使该片段可见于用户（根据它含有活性被启动）。</li>
+<li>onResume() 使得片段开始与用户交互（根据其含有的活性被收回）。</li>
+</ol>
+<hr>
+<p>如不再被使用的一个片段，它通过一个反向串联回调：</p>
+<hr>
+<ol>
+<li>onPause() 片段不再与用户交互可能是因为它的活性被暂停或片段操作修改它的活动。</li>
+<li>onStop() 片段不再对用户可见的或者是因为它的活性被停止或片段操作修改它的活动。</li>
+<li>onDestroyView() 允许碎片清理与显示有关的资源。</li>
+<li>onDestroy() 所谓做片段状态的最后的清理。</li>
+<li>onDetach() 叫之前立即不再与它的活动相关联的片段。</li>
+</ol>
+
       
 
       
@@ -195,7 +222,27 @@
     </div>
     <div class="article-info article-info-index">
       
+        <div class="article-pop-out tagcloud">
+          <i class="icon-tuding"></i>
+          <a class="article-tag-list-link color3">置顶</a>
+        </div>
       
+      
+	<div class="article-tag tagcloud">
+		<i class="icon-price-tags icon"></i>
+		<ul class="article-tag-list">
+			 
+        		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color5">Android基础</a>
+        		</li>
+      		 
+        		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color3">Fragment声明周期</a>
+        		</li>
+      		
+		</ul>
+	</div>
+
       
 
       
@@ -389,6 +436,14 @@
              
               <li class="article-tag-list-item">
                 <a href="javascript:void(0)" class="js-tag color5">octopress</a>
+              </li>
+             
+              <li class="article-tag-list-item">
+                <a href="javascript:void(0)" class="js-tag color5">Android基础</a>
+              </li>
+             
+              <li class="article-tag-list-item">
+                <a href="javascript:void(0)" class="js-tag color3">Fragment声明周期</a>
               </li>
             
             <div class="clearfix"></div>
